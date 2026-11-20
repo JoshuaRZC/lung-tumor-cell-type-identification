@@ -221,3 +221,14 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Operating system
+.DS_Store
+
+# Project data
+data/raw/*
+data/processed/*
+
+# Local project materials
+references/
+instructions/
