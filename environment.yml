@@ -10,6 +10,10 @@ dependencies:
   - pandas
   - pyyaml
   - pytorch
+  - r-base
+  - r-matrix
+  - r-yaml
+  - requests
   - scanpy
   - scikit-learn
   - scipy
