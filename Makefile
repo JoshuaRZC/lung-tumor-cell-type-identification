@@ -7,10 +7,10 @@ help:
 	@printf "make explore   Run the exploratory data analysis notebook\n"
 
 download:
-	python scripts/download_data.py
+	python scripts/download-data.py
 
 convert:
-	Rscript scripts/convert_raw_counts.R
+	Rscript scripts/convert-raw-counts.R
 
 explore:
 	jupyter nbconvert --to notebook --execute --inplace notebooks/01_data-exploration.ipynb --ExecutePreprocessor.timeout=1200
