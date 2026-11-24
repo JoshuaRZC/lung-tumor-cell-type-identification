@@ -1,0 +1,3 @@
+method,cells,input_features,latent_dimensions,sample_silhouette_score,pca_cumulative_explained_variance,best_validation_mse
+PCA,44180,2000,20,-0.0381,0.4672,
+Autoencoder,44180,2000,20,-0.0327,,0.0741

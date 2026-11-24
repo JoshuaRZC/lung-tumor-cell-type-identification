@@ -31,3 +31,25 @@ preprocessing:
   n_hvgs: 2000
   hvg_batch_key: sample
   hvg_flavor: seurat
+
+representation:
+  pca_diagnostic_components: 100
+  latent_dim: 20
+  autoencoder_hidden_dim: 256
+  validation_fraction: 0.1
+  batch_size: 256
+  learning_rate: 0.001
+  max_epochs: 100
+  patience: 10
+  silhouette_sample_size: 5000
+  tsne_perplexity: 30
+  tsne_early_exaggeration: 12
+  tsne_max_iter: 1000
+  umap_n_neighbors: 15
+  umap_min_dist: 0.5
+
+visualization_tuning:
+  tsne_perplexities: [15, 30, 50]
+  tsne_early_exaggerations: [8, 12]
+  umap_n_neighbors: [10, 15, 30]
+  umap_min_dists: [0.1, 0.5]
