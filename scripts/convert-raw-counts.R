@@ -16,14 +16,17 @@ if (all(file.exists(output_files))) {
   quit()
 }
 
+# The downloaded RDS is gzip-compressed twice, so readRDS needs a gzip connection.
 connection <- gzcon(gzfile(raw_file, "rb"))
 counts <- readRDS(connection)
 close(connection)
 
 cell_ids <- colnames(counts)
 cell_samples <- sub("^[^_]+_", "", cell_ids)
+# Select configured samples from count-matrix column names without using labels.
 keep_cells <- cell_samples %in% selected_samples
 
+# Convert only the selected counts before writing portable sparse files.
 selected_counts <- as.matrix(counts[, keep_cells, drop = FALSE])
 rm(counts)
 gc()
