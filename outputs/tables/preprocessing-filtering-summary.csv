@@ -1,0 +1,2 @@
+cells_before_filtering,cells_after_cell_filtering,cell_retention_percent,genes_before_filtering,genes_after_gene_filtering,selected_hvgs
+45149,44180,97.85,29634,24270,2000

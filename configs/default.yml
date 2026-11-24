@@ -2,6 +2,9 @@
 project:
   name: lung-tumor-cell-type-identification
 
+analysis:
+  random_seed: 2026
+
 dataset:
   geo_accession: GSE131907
   selected_samples:
@@ -16,3 +19,15 @@ dataset:
     - LUNG_T30
     - LUNG_T31
     - LUNG_T34
+
+preprocessing:
+  min_total_counts: 1000
+  max_total_counts: 100000
+  min_genes_per_cell: 300
+  max_genes_per_cell: 10000
+  max_mito_percent: 15
+  min_cells_per_gene: 3
+  target_sum: 10000
+  n_hvgs: 2000
+  hvg_batch_key: sample
+  hvg_flavor: seurat
