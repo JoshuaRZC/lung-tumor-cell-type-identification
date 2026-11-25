@@ -5,11 +5,13 @@ dependencies:
   - python=3.11
   - ipykernel
   - jupyterlab
+  - leidenalg
   - matplotlib
   - numpy
   - pandas
   - pyyaml
   - pytorch
+  - python-igraph
   - r-base
   - r-matrix
   - r-yaml

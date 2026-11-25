@@ -1,0 +1,5 @@
+representation,method,parameter,n_clusters,silhouette_score,min_cluster_size,median_cluster_size,runtime_seconds
+pca,kmeans,6.0,6,0.3549953242482221,1807,6109.0,0.3231621249578893
+pca,leiden,0.4,17,0.24339317743714942,636,1816.0,3.8954791669966653
+autoencoder,kmeans,8.0,8,0.24942111258150163,1821,4931.0,0.3256132500246167
+autoencoder,leiden,0.2,14,0.20477196463227107,23,1737.5,4.215178000042215

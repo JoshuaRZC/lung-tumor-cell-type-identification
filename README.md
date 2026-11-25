@@ -25,6 +25,7 @@ lung-tumor-cell-type-identification/
 ├── outputs/
 │   ├── figures/             # Generated figures
 │   ├── tables/              # Generated tables and evaluation results
+│   ├── clusters/            # Per-cell clustering assignments
 │   ├── embeddings/          # Learned cell representations
 │   └── models/              # Trained model artifacts
 ├── documents/

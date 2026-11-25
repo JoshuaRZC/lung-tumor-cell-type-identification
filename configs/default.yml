@@ -53,3 +53,16 @@ visualization_tuning:
   tsne_early_exaggerations: [8, 12]
   umap_n_neighbors: [10, 15, 30]
   umap_min_dists: [0.1, 0.5]
+
+clustering:
+  kmeans_candidates: [6, 8, 10, 12]
+  leiden_resolutions: [0.2, 0.4, 0.6, 0.8, 1.0]
+  leiden_n_neighbors: 15
+  silhouette_sample_size: 5000
+  final_parameters:
+    pca:
+      kmeans_clusters: 6
+      leiden_resolution: 0.4
+    autoencoder:
+      kmeans_clusters: 8
+      leiden_resolution: 0.2

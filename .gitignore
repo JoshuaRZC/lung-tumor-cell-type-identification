@@ -229,6 +229,7 @@ __marimo__/
 data/raw/*
 data/processed/*
 outputs/embeddings/*
+outputs/clusters/*
 outputs/models/*
 
 # Local project materials
