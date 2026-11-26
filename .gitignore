@@ -233,6 +233,13 @@ outputs/clusters/*
 outputs/annotations/*
 outputs/models/*
 
+# Analysis checkpoints
+!outputs/embeddings/pca-20.csv.gz
+!outputs/embeddings/autoencoder-20.csv.gz
+!outputs/clusters/clustering-labels.csv.gz
+!outputs/annotations/annotation-labels.csv.gz
+!outputs/models/autoencoder.pt
+
 # Local project materials
 references/
 instructions/
