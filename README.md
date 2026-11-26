@@ -80,7 +80,15 @@ conda env create -f environment.yml
 conda activate lung-tumor-cell-type-identification
 ```
 
-Use `make help` to view the available workflow commands. A complete rerun requires the following targets in order:
+Use `make help` to view the available workflow commands. Run the complete analysis pipeline with:
+
+```bash
+make all
+```
+
+`make all` always reruns every stage, from download through annotation. The download and conversion stages retrieve and process the raw sparse count matrix, so a complete rerun requires internet access and substantial memory (at least 32 GB RAM).
+
+To run or rerun one stage at a time, use the following commands in order:
 
 ```bash
 make download
@@ -91,8 +99,6 @@ make representation
 make clustering
 make annotation
 ```
-
-The download and conversion stages retrieve and process the raw sparse count matrix. A complete rerun therefore requires internet access and substantially memory (32 GB or more).
 
 To support collaboration when a full rerun is not practical, the repository tracks the following analysis checkpoints:
 

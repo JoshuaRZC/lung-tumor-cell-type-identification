@@ -1,7 +1,8 @@
-.PHONY: help download convert explore preprocess representation clustering annotation
+.PHONY: help all download convert explore preprocess representation clustering annotation
 
 help:
 	@printf "Current configuration: configs/default.yml\n"
+	@printf "make all  Run the complete analysis pipeline\n"
 	@printf "make download  Download the raw data files\n"
 	@printf "make convert   Extract selected samples and export Matrix Market files\n"
 	@printf "make explore   Run the exploratory data analysis notebook\n"
@@ -9,6 +10,15 @@ help:
 	@printf "make representation  Fit representations, run visualization tuning, and execute its notebook\n"
 	@printf "make clustering  Run label-free clustering diagnostics and its notebook\n"
 	@printf "make annotation  Annotate clusters with frozen markers and evaluate against reference labels\n"
+
+all:
+	$(MAKE) download
+	$(MAKE) convert
+	$(MAKE) explore
+	$(MAKE) preprocess
+	$(MAKE) representation
+	$(MAKE) clustering
+	$(MAKE) annotation
 
 download:
 	python scripts/download-data.py
