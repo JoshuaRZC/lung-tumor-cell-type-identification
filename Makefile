@@ -1,8 +1,9 @@
-.PHONY: help all download convert explore preprocess representation clustering annotation
+.PHONY: help all clean download convert explore preprocess representation clustering annotation
 
 help:
 	@printf "Current configuration: configs/default.yml\n"
 	@printf "make all  Run the complete analysis pipeline\n"
+	@printf "make clean  Remove ignored raw, processed, and temporary output files\n"
 	@printf "make download  Download the raw data files\n"
 	@printf "make convert   Extract selected samples and export Matrix Market files\n"
 	@printf "make explore   Run the exploratory data analysis notebook\n"
@@ -19,6 +20,9 @@ all:
 	$(MAKE) representation
 	$(MAKE) clustering
 	$(MAKE) annotation
+
+clean:
+	git clean -fdX -- data/raw data/processed outputs
 
 download:
 	python scripts/download-data.py
