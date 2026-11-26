@@ -16,6 +16,8 @@ if (all(file.exists(output_files))) {
   quit()
 }
 
+dir.create("data/processed", recursive = TRUE, showWarnings = FALSE)
+
 # The downloaded RDS is gzip-compressed twice, so readRDS needs a gzip connection.
 connection <- gzcon(gzfile(raw_file, "rb"))
 counts <- readRDS(connection)
