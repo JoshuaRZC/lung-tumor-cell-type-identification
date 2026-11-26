@@ -66,3 +66,10 @@ clustering:
     autoencoder:
       kmeans_clusters: 8
       leiden_resolution: 0.2
+
+annotation:
+  marker_panel_file: configs/cell-type-markers.yml
+  n_ranked_genes: 25
+  fdr_threshold: 0.05
+  score_control_size: 50
+  score_n_bins: 25

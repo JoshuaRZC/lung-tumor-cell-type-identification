@@ -230,6 +230,7 @@ data/raw/*
 data/processed/*
 outputs/embeddings/*
 outputs/clusters/*
+outputs/annotations/*
 outputs/models/*
 
 # Local project materials

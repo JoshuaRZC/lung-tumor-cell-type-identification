@@ -1,0 +1,676 @@
+representation,method,combination,cluster,cell_type,marker_score
+pca,kmeans,pca_kmeans,0,T cell,-0.5926528975591628
+pca,kmeans,pca_kmeans,0,B cell,1.2120852082202809
+pca,kmeans,pca_kmeans,0,Plasma cell,-0.14631064566240584
+pca,kmeans,pca_kmeans,0,NK cell,-0.2954426154456634
+pca,kmeans,pca_kmeans,0,Macrophage,1.4154427364871243
+pca,kmeans,pca_kmeans,0,Monocyte,1.2337963232269327
+pca,kmeans,pca_kmeans,0,Dendritic cell,0.7167620353125373
+pca,kmeans,pca_kmeans,0,Mast cell,-0.1452040614902545
+pca,kmeans,pca_kmeans,0,Epithelial cell,-0.20203968064388858
+pca,kmeans,pca_kmeans,0,Endothelial cell,0.02758480017206038
+pca,kmeans,pca_kmeans,0,Fibroblast,-0.10092951251201833
+pca,kmeans,pca_kmeans,0,Myofibroblast,-0.024515402459150484
+pca,kmeans,pca_kmeans,0,Pericyte,-0.004425809589166799
+pca,kmeans,pca_kmeans,0,Smooth muscle cell,-0.014840596734818095
+pca,kmeans,pca_kmeans,0,Mesothelial cell,-0.06162970166928632
+pca,kmeans,pca_kmeans,1,T cell,0.8052008466261871
+pca,kmeans,pca_kmeans,1,B cell,0.3860812178660763
+pca,kmeans,pca_kmeans,1,Plasma cell,-0.10225612644522598
+pca,kmeans,pca_kmeans,1,NK cell,0.19701031477472747
+pca,kmeans,pca_kmeans,1,Macrophage,-0.282356361013173
+pca,kmeans,pca_kmeans,1,Monocyte,-0.15112805060932963
+pca,kmeans,pca_kmeans,1,Dendritic cell,-0.04574790245422856
+pca,kmeans,pca_kmeans,1,Mast cell,-0.09577519521190445
+pca,kmeans,pca_kmeans,1,Epithelial cell,-0.08257316233945612
+pca,kmeans,pca_kmeans,1,Endothelial cell,-0.023872276749888895
+pca,kmeans,pca_kmeans,1,Fibroblast,-0.04871377163032879
+pca,kmeans,pca_kmeans,1,Myofibroblast,-0.0118481133468537
+pca,kmeans,pca_kmeans,1,Pericyte,-0.011133256793773114
+pca,kmeans,pca_kmeans,1,Smooth muscle cell,-0.005025212932090215
+pca,kmeans,pca_kmeans,1,Mesothelial cell,-0.009271234726680736
+pca,kmeans,pca_kmeans,2,T cell,-0.6903794135731788
+pca,kmeans,pca_kmeans,2,B cell,0.18322103727862568
+pca,kmeans,pca_kmeans,2,Plasma cell,0.02020204919871243
+pca,kmeans,pca_kmeans,2,NK cell,-0.2879434118701755
+pca,kmeans,pca_kmeans,2,Macrophage,-0.415676701533867
+pca,kmeans,pca_kmeans,2,Monocyte,0.07296119914211638
+pca,kmeans,pca_kmeans,2,Dendritic cell,-0.06469375252566406
+pca,kmeans,pca_kmeans,2,Mast cell,-0.1812287402524504
+pca,kmeans,pca_kmeans,2,Epithelial cell,1.2365674352317007
+pca,kmeans,pca_kmeans,2,Endothelial cell,-0.061059248672664455
+pca,kmeans,pca_kmeans,2,Fibroblast,-0.06836634523227654
+pca,kmeans,pca_kmeans,2,Myofibroblast,-0.05342141856485272
+pca,kmeans,pca_kmeans,2,Pericyte,-0.02937723480058703
+pca,kmeans,pca_kmeans,2,Smooth muscle cell,-0.04464007391337817
+pca,kmeans,pca_kmeans,2,Mesothelial cell,0.8483375614834909
+pca,kmeans,pca_kmeans,3,T cell,-0.3843438665520063
+pca,kmeans,pca_kmeans,3,B cell,1.8191972575708413
+pca,kmeans,pca_kmeans,3,Plasma cell,0.35953621205840464
+pca,kmeans,pca_kmeans,3,NK cell,-0.20798512813288814
+pca,kmeans,pca_kmeans,3,Macrophage,-0.21737768163041157
+pca,kmeans,pca_kmeans,3,Monocyte,-0.1360351606206734
+pca,kmeans,pca_kmeans,3,Dendritic cell,0.556981853455456
+pca,kmeans,pca_kmeans,3,Mast cell,-0.07666131123567402
+pca,kmeans,pca_kmeans,3,Epithelial cell,-0.08011615137649822
+pca,kmeans,pca_kmeans,3,Endothelial cell,-0.010066262790856479
+pca,kmeans,pca_kmeans,3,Fibroblast,-0.04503266084999197
+pca,kmeans,pca_kmeans,3,Myofibroblast,-0.019681892740208325
+pca,kmeans,pca_kmeans,3,Pericyte,-0.01129546860314335
+pca,kmeans,pca_kmeans,3,Smooth muscle cell,-0.011938279504506148
+pca,kmeans,pca_kmeans,3,Mesothelial cell,-0.039880981532809265
+pca,kmeans,pca_kmeans,4,T cell,-0.6342593489877125
+pca,kmeans,pca_kmeans,4,B cell,0.013674634026662356
+pca,kmeans,pca_kmeans,4,Plasma cell,-0.15273714891944007
+pca,kmeans,pca_kmeans,4,NK cell,-0.3124519474076547
+pca,kmeans,pca_kmeans,4,Macrophage,-0.2341466912961592
+pca,kmeans,pca_kmeans,4,Monocyte,-0.21755804724369338
+pca,kmeans,pca_kmeans,4,Dendritic cell,-0.14408873811847062
+pca,kmeans,pca_kmeans,4,Mast cell,-0.12949295955871676
+pca,kmeans,pca_kmeans,4,Epithelial cell,-0.17257297014342418
+pca,kmeans,pca_kmeans,4,Endothelial cell,0.3500783122711417
+pca,kmeans,pca_kmeans,4,Fibroblast,1.7750846434563063
+pca,kmeans,pca_kmeans,4,Myofibroblast,0.5069664852794021
+pca,kmeans,pca_kmeans,4,Pericyte,0.22222496552120447
+pca,kmeans,pca_kmeans,4,Smooth muscle cell,0.43055177655681975
+pca,kmeans,pca_kmeans,4,Mesothelial cell,-0.031491767438630365
+pca,kmeans,pca_kmeans,5,T cell,-0.49579608985208273
+pca,kmeans,pca_kmeans,5,B cell,0.23560645257452495
+pca,kmeans,pca_kmeans,5,Plasma cell,-0.10763386173158082
+pca,kmeans,pca_kmeans,5,NK cell,-0.23849511929861053
+pca,kmeans,pca_kmeans,5,Macrophage,-0.10659218175673789
+pca,kmeans,pca_kmeans,5,Monocyte,0.07432564795885858
+pca,kmeans,pca_kmeans,5,Dendritic cell,0.21126595956627348
+pca,kmeans,pca_kmeans,5,Mast cell,3.0752845812417817
+pca,kmeans,pca_kmeans,5,Epithelial cell,-0.12721461932576106
+pca,kmeans,pca_kmeans,5,Endothelial cell,-0.02796355356903583
+pca,kmeans,pca_kmeans,5,Fibroblast,-0.05900552413688554
+pca,kmeans,pca_kmeans,5,Myofibroblast,-0.016469236863342823
+pca,kmeans,pca_kmeans,5,Pericyte,-0.015988435220991064
+pca,kmeans,pca_kmeans,5,Smooth muscle cell,-0.011148289241895886
+pca,kmeans,pca_kmeans,5,Mesothelial cell,-0.0014889417027134097
+pca,leiden,pca_leiden,0,T cell,0.8773841257435379
+pca,leiden,pca_leiden,0,B cell,0.3804077680372502
+pca,leiden,pca_leiden,0,Plasma cell,-0.04422429787635632
+pca,leiden,pca_leiden,0,NK cell,-0.025390476929067343
+pca,leiden,pca_leiden,0,Macrophage,-0.32497957250205967
+pca,leiden,pca_leiden,0,Monocyte,-0.19902400383940375
+pca,leiden,pca_leiden,0,Dendritic cell,-0.06766454136525665
+pca,leiden,pca_leiden,0,Mast cell,-0.08516141376717418
+pca,leiden,pca_leiden,0,Epithelial cell,-0.11000471024932937
+pca,leiden,pca_leiden,0,Endothelial cell,-0.02205721086458443
+pca,leiden,pca_leiden,0,Fibroblast,-0.027645764854527972
+pca,leiden,pca_leiden,0,Myofibroblast,-0.00906448643830861
+pca,leiden,pca_leiden,0,Pericyte,-0.011444899349764727
+pca,leiden,pca_leiden,0,Smooth muscle cell,-0.0026821526334621882
+pca,leiden,pca_leiden,0,Mesothelial cell,-0.03661115683154677
+pca,leiden,pca_leiden,1,T cell,-0.6095794158750728
+pca,leiden,pca_leiden,1,B cell,1.171983052800764
+pca,leiden,pca_leiden,1,Plasma cell,-0.14757703238545647
+pca,leiden,pca_leiden,1,NK cell,-0.30358271515030066
+pca,leiden,pca_leiden,1,Macrophage,1.804102036435522
+pca,leiden,pca_leiden,1,Monocyte,1.248723703255602
+pca,leiden,pca_leiden,1,Dendritic cell,0.6127947377465773
+pca,leiden,pca_leiden,1,Mast cell,-0.15088509231519537
+pca,leiden,pca_leiden,1,Epithelial cell,-0.20861296134580237
+pca,leiden,pca_leiden,1,Endothelial cell,0.02944816120378268
+pca,leiden,pca_leiden,1,Fibroblast,-0.10689606110541916
+pca,leiden,pca_leiden,1,Myofibroblast,-0.02593282251860111
+pca,leiden,pca_leiden,1,Pericyte,0.0014867602968782671
+pca,leiden,pca_leiden,1,Smooth muscle cell,-0.015647355163323492
+pca,leiden,pca_leiden,1,Mesothelial cell,-0.05868223990565833
+pca,leiden,pca_leiden,2,T cell,0.9130531423794522
+pca,leiden,pca_leiden,2,B cell,0.33321725906543576
+pca,leiden,pca_leiden,2,Plasma cell,-0.1534206055156599
+pca,leiden,pca_leiden,2,NK cell,-0.19588402422870543
+pca,leiden,pca_leiden,2,Macrophage,-0.26728667872043665
+pca,leiden,pca_leiden,2,Monocyte,-0.15414097491094286
+pca,leiden,pca_leiden,2,Dendritic cell,-0.06913208468810149
+pca,leiden,pca_leiden,2,Mast cell,-0.10538641792638022
+pca,leiden,pca_leiden,2,Epithelial cell,-0.05307820769612629
+pca,leiden,pca_leiden,2,Endothelial cell,-0.030387496777237077
+pca,leiden,pca_leiden,2,Fibroblast,-0.06469570249760935
+pca,leiden,pca_leiden,2,Myofibroblast,-0.012962590211524428
+pca,leiden,pca_leiden,2,Pericyte,-0.011497782565600998
+pca,leiden,pca_leiden,2,Smooth muscle cell,-0.0052766884959376805
+pca,leiden,pca_leiden,2,Mesothelial cell,0.015042277032027433
+pca,leiden,pca_leiden,3,T cell,0.8251046670515032
+pca,leiden,pca_leiden,3,B cell,0.42571938581734375
+pca,leiden,pca_leiden,3,Plasma cell,-0.14165729816365843
+pca,leiden,pca_leiden,3,NK cell,0.49576110630818454
+pca,leiden,pca_leiden,3,Macrophage,-0.2396724713518337
+pca,leiden,pca_leiden,3,Monocyte,-0.11593277234613125
+pca,leiden,pca_leiden,3,Dendritic cell,-0.014454924350619184
+pca,leiden,pca_leiden,3,Mast cell,-0.10689947049743892
+pca,leiden,pca_leiden,3,Epithelial cell,-0.05708696059726845
+pca,leiden,pca_leiden,3,Endothelial cell,-0.024303829270606616
+pca,leiden,pca_leiden,3,Fibroblast,-0.05763448165855544
+pca,leiden,pca_leiden,3,Myofibroblast,-0.015020643230278819
+pca,leiden,pca_leiden,3,Pericyte,-0.012891767269513124
+pca,leiden,pca_leiden,3,Smooth muscle cell,-0.00866387593350712
+pca,leiden,pca_leiden,3,Mesothelial cell,0.014520717187415847
+pca,leiden,pca_leiden,4,T cell,-0.4028160412085512
+pca,leiden,pca_leiden,4,B cell,2.2923538776299104
+pca,leiden,pca_leiden,4,Plasma cell,0.023714502242989783
+pca,leiden,pca_leiden,4,NK cell,-0.22367657245637418
+pca,leiden,pca_leiden,4,Macrophage,-0.2464178672664823
+pca,leiden,pca_leiden,4,Monocyte,-0.1807662174111014
+pca,leiden,pca_leiden,4,Dendritic cell,0.7314712395892258
+pca,leiden,pca_leiden,4,Mast cell,-0.08230195396215505
+pca,leiden,pca_leiden,4,Epithelial cell,-0.08345279093353447
+pca,leiden,pca_leiden,4,Endothelial cell,-0.026599966026283242
+pca,leiden,pca_leiden,4,Fibroblast,-0.051424423456096935
+pca,leiden,pca_leiden,4,Myofibroblast,-0.022281380824525313
+pca,leiden,pca_leiden,4,Pericyte,-0.01279291397632319
+pca,leiden,pca_leiden,4,Smooth muscle cell,-0.012691084206743539
+pca,leiden,pca_leiden,4,Mesothelial cell,-0.048857396451407166
+pca,leiden,pca_leiden,5,T cell,-0.5224129990837468
+pca,leiden,pca_leiden,5,B cell,1.2690127353145844
+pca,leiden,pca_leiden,5,Plasma cell,-0.08464454825360933
+pca,leiden,pca_leiden,5,NK cell,-0.2673828423266339
+pca,leiden,pca_leiden,5,Macrophage,0.08521713736527624
+pca,leiden,pca_leiden,5,Monocyte,0.9295446331885452
+pca,leiden,pca_leiden,5,Dendritic cell,1.0193500293333078
+pca,leiden,pca_leiden,5,Mast cell,-0.14786668220981214
+pca,leiden,pca_leiden,5,Epithelial cell,-0.18521139875112688
+pca,leiden,pca_leiden,5,Endothelial cell,0.007481837511429259
+pca,leiden,pca_leiden,5,Fibroblast,-0.08533586590815456
+pca,leiden,pca_leiden,5,Myofibroblast,-0.026591716153707395
+pca,leiden,pca_leiden,5,Pericyte,-0.02009183366892627
+pca,leiden,pca_leiden,5,Smooth muscle cell,-0.017123474421107288
+pca,leiden,pca_leiden,5,Mesothelial cell,-0.07625537041764582
+pca,leiden,pca_leiden,6,T cell,-0.6937641065887425
+pca,leiden,pca_leiden,6,B cell,0.07576477769391594
+pca,leiden,pca_leiden,6,Plasma cell,0.03378378742213087
+pca,leiden,pca_leiden,6,NK cell,-0.25074242813132214
+pca,leiden,pca_leiden,6,Macrophage,-0.4957124594761931
+pca,leiden,pca_leiden,6,Monocyte,0.0037543355932862623
+pca,leiden,pca_leiden,6,Dendritic cell,-0.1356011941945196
+pca,leiden,pca_leiden,6,Mast cell,-0.19619382609136465
+pca,leiden,pca_leiden,6,Epithelial cell,1.1678902470205494
+pca,leiden,pca_leiden,6,Endothelial cell,-0.07046775977646072
+pca,leiden,pca_leiden,6,Fibroblast,-0.10163693421776608
+pca,leiden,pca_leiden,6,Myofibroblast,-0.046414977209502245
+pca,leiden,pca_leiden,6,Pericyte,-0.04173134512211957
+pca,leiden,pca_leiden,6,Smooth muscle cell,-0.032234693996571355
+pca,leiden,pca_leiden,6,Mesothelial cell,0.8306714801312066
+pca,leiden,pca_leiden,7,T cell,-0.6265808166019357
+pca,leiden,pca_leiden,7,B cell,0.5055663967673975
+pca,leiden,pca_leiden,7,Plasma cell,0.03871997951927972
+pca,leiden,pca_leiden,7,NK cell,-0.2621307603760153
+pca,leiden,pca_leiden,7,Macrophage,-0.3295815896396564
+pca,leiden,pca_leiden,7,Monocyte,0.06826148327449388
+pca,leiden,pca_leiden,7,Dendritic cell,0.09814666177806704
+pca,leiden,pca_leiden,7,Mast cell,-0.1345763494284864
+pca,leiden,pca_leiden,7,Epithelial cell,0.880722642412403
+pca,leiden,pca_leiden,7,Endothelial cell,-0.052538416705160296
+pca,leiden,pca_leiden,7,Fibroblast,-0.10012816569942488
+pca,leiden,pca_leiden,7,Myofibroblast,-0.0395514790078254
+pca,leiden,pca_leiden,7,Pericyte,-0.03149310417474565
+pca,leiden,pca_leiden,7,Smooth muscle cell,-0.04017696685743168
+pca,leiden,pca_leiden,7,Mesothelial cell,0.5847840016139338
+pca,leiden,pca_leiden,8,T cell,-0.49431817478851775
+pca,leiden,pca_leiden,8,B cell,0.23906343966831894
+pca,leiden,pca_leiden,8,Plasma cell,-0.10795983258176947
+pca,leiden,pca_leiden,8,NK cell,-0.23798187180959704
+pca,leiden,pca_leiden,8,Macrophage,-0.10059222653158086
+pca,leiden,pca_leiden,8,Monocyte,0.0765513000469901
+pca,leiden,pca_leiden,8,Dendritic cell,0.2142354116438746
+pca,leiden,pca_leiden,8,Mast cell,3.070115806691666
+pca,leiden,pca_leiden,8,Epithelial cell,-0.1279288836276744
+pca,leiden,pca_leiden,8,Endothelial cell,-0.02862111233400178
+pca,leiden,pca_leiden,8,Fibroblast,-0.05856768611032172
+pca,leiden,pca_leiden,8,Myofibroblast,-0.016500131540155862
+pca,leiden,pca_leiden,8,Pericyte,-0.01602232726222443
+pca,leiden,pca_leiden,8,Smooth muscle cell,-0.011177881440522475
+pca,leiden,pca_leiden,8,Mesothelial cell,-0.00213875403860242
+pca,leiden,pca_leiden,9,T cell,-0.6390532895301188
+pca,leiden,pca_leiden,9,B cell,-0.12502038689951103
+pca,leiden,pca_leiden,9,Plasma cell,-0.13724525713725674
+pca,leiden,pca_leiden,9,NK cell,-0.32049159063860067
+pca,leiden,pca_leiden,9,Macrophage,-0.19478049079683565
+pca,leiden,pca_leiden,9,Monocyte,-0.22178480819671872
+pca,leiden,pca_leiden,9,Dendritic cell,-0.207586715806579
+pca,leiden,pca_leiden,9,Mast cell,-0.15208463856903098
+pca,leiden,pca_leiden,9,Epithelial cell,-0.1776175260733761
+pca,leiden,pca_leiden,9,Endothelial cell,-0.09012910533031775
+pca,leiden,pca_leiden,9,Fibroblast,2.4261093684486035
+pca,leiden,pca_leiden,9,Myofibroblast,0.68331610604387
+pca,leiden,pca_leiden,9,Pericyte,0.22091647794547062
+pca,leiden,pca_leiden,9,Smooth muscle cell,0.5915560676990048
+pca,leiden,pca_leiden,9,Mesothelial cell,-0.03283101591077589
+pca,leiden,pca_leiden,10,T cell,-0.6932199544842764
+pca,leiden,pca_leiden,10,B cell,0.14336998437164092
+pca,leiden,pca_leiden,10,Plasma cell,-0.051462661328342145
+pca,leiden,pca_leiden,10,NK cell,-0.32484844057658746
+pca,leiden,pca_leiden,10,Macrophage,-0.3653732877211061
+pca,leiden,pca_leiden,10,Monocyte,0.2348834503376031
+pca,leiden,pca_leiden,10,Dendritic cell,-0.08666563762752964
+pca,leiden,pca_leiden,10,Mast cell,-0.18476470509696832
+pca,leiden,pca_leiden,10,Epithelial cell,1.5529179042799686
+pca,leiden,pca_leiden,10,Endothelial cell,-0.04105681017475736
+pca,leiden,pca_leiden,10,Fibroblast,0.07336909268606098
+pca,leiden,pca_leiden,10,Myofibroblast,-0.055988108288005316
+pca,leiden,pca_leiden,10,Pericyte,0.010344032919286731
+pca,leiden,pca_leiden,10,Smooth muscle cell,-0.04797531858813131
+pca,leiden,pca_leiden,10,Mesothelial cell,1.1063824052653903
+pca,leiden,pca_leiden,11,T cell,0.7161052177032066
+pca,leiden,pca_leiden,11,B cell,0.4898683151481456
+pca,leiden,pca_leiden,11,Plasma cell,-0.1288880919958908
+pca,leiden,pca_leiden,11,NK cell,0.2509831185422318
+pca,leiden,pca_leiden,11,Macrophage,-0.2840749192656588
+pca,leiden,pca_leiden,11,Monocyte,-0.10789183741507605
+pca,leiden,pca_leiden,11,Dendritic cell,0.004732010261200688
+pca,leiden,pca_leiden,11,Mast cell,-0.08528487816857275
+pca,leiden,pca_leiden,11,Epithelial cell,-0.1392079420971435
+pca,leiden,pca_leiden,11,Endothelial cell,-0.0241595754290736
+pca,leiden,pca_leiden,11,Fibroblast,-0.07271256819383372
+pca,leiden,pca_leiden,11,Myofibroblast,-0.018479672672804516
+pca,leiden,pca_leiden,11,Pericyte,-0.011908531432697015
+pca,leiden,pca_leiden,11,Smooth muscle cell,-0.011119992261997952
+pca,leiden,pca_leiden,11,Mesothelial cell,-0.056918686707323606
+pca,leiden,pca_leiden,12,T cell,-0.3029221194639392
+pca,leiden,pca_leiden,12,B cell,0.6016525350858423
+pca,leiden,pca_leiden,12,Plasma cell,1.4629707223442854
+pca,leiden,pca_leiden,12,NK cell,-0.14258812065810478
+pca,leiden,pca_leiden,12,Macrophage,-0.14865564305144757
+pca,leiden,pca_leiden,12,Monocyte,-0.058422433456443816
+pca,leiden,pca_leiden,12,Dendritic cell,-0.047001051033040565
+pca,leiden,pca_leiden,12,Mast cell,-0.04658868639872332
+pca,leiden,pca_leiden,12,Epithelial cell,-0.05553126413477756
+pca,leiden,pca_leiden,12,Endothelial cell,0.018182565721991253
+pca,leiden,pca_leiden,12,Fibroblast,-0.015475206471292812
+pca,leiden,pca_leiden,12,Myofibroblast,-0.008262079091645131
+pca,leiden,pca_leiden,12,Pericyte,-0.006778941514313727
+pca,leiden,pca_leiden,12,Smooth muscle cell,-0.0055000289529753485
+pca,leiden,pca_leiden,12,Mesothelial cell,-0.008746822672082048
+pca,leiden,pca_leiden,13,T cell,0.17240791515835624
+pca,leiden,pca_leiden,13,B cell,0.3749682069816579
+pca,leiden,pca_leiden,13,Plasma cell,-0.04392073954888779
+pca,leiden,pca_leiden,13,NK cell,1.8660567235985048
+pca,leiden,pca_leiden,13,Macrophage,-0.2897739130111388
+pca,leiden,pca_leiden,13,Monocyte,-0.09265343574286146
+pca,leiden,pca_leiden,13,Dendritic cell,-0.027956207049667035
+pca,leiden,pca_leiden,13,Mast cell,-0.09379450603191788
+pca,leiden,pca_leiden,13,Epithelial cell,-0.11508615504306226
+pca,leiden,pca_leiden,13,Endothelial cell,-0.026027909399934563
+pca,leiden,pca_leiden,13,Fibroblast,-0.050776242348857165
+pca,leiden,pca_leiden,13,Myofibroblast,-0.01514565504538395
+pca,leiden,pca_leiden,13,Pericyte,-0.006331466918214315
+pca,leiden,pca_leiden,13,Smooth muscle cell,-0.008617058049365519
+pca,leiden,pca_leiden,13,Mesothelial cell,-0.012651668565124832
+pca,leiden,pca_leiden,14,T cell,-0.7761255694945283
+pca,leiden,pca_leiden,14,B cell,-0.14923976024849803
+pca,leiden,pca_leiden,14,Plasma cell,0.04837923095293106
+pca,leiden,pca_leiden,14,NK cell,-0.3576030139015767
+pca,leiden,pca_leiden,14,Macrophage,-0.4285699739620348
+pca,leiden,pca_leiden,14,Monocyte,0.02120363746100405
+pca,leiden,pca_leiden,14,Dendritic cell,-0.18722138475893718
+pca,leiden,pca_leiden,14,Mast cell,-0.22315637459903517
+pca,leiden,pca_leiden,14,Epithelial cell,1.597246213172985
+pca,leiden,pca_leiden,14,Endothelial cell,-0.08420350143210069
+pca,leiden,pca_leiden,14,Fibroblast,-0.12646067212396198
+pca,leiden,pca_leiden,14,Myofibroblast,-0.08846970011025576
+pca,leiden,pca_leiden,14,Pericyte,-0.05108477268630007
+pca,leiden,pca_leiden,14,Smooth muscle cell,-0.07162622995496692
+pca,leiden,pca_leiden,14,Mesothelial cell,1.0157706366378496
+pca,leiden,pca_leiden,15,T cell,-0.5770109141679233
+pca,leiden,pca_leiden,15,B cell,1.269026579101923
+pca,leiden,pca_leiden,15,Plasma cell,-0.17551082089755857
+pca,leiden,pca_leiden,15,NK cell,-0.2750615977821788
+pca,leiden,pca_leiden,15,Macrophage,1.454084500834469
+pca,leiden,pca_leiden,15,Monocyte,1.2096622777643877
+pca,leiden,pca_leiden,15,Dendritic cell,0.5786251570389523
+pca,leiden,pca_leiden,15,Mast cell,-0.10925014516765771
+pca,leiden,pca_leiden,15,Epithelial cell,-0.17821863832040943
+pca,leiden,pca_leiden,15,Endothelial cell,0.03922089749256
+pca,leiden,pca_leiden,15,Fibroblast,-0.09534047018747568
+pca,leiden,pca_leiden,15,Myofibroblast,-0.011469315221606397
+pca,leiden,pca_leiden,15,Pericyte,-0.00827644892007508
+pca,leiden,pca_leiden,15,Smooth muscle cell,-0.0063574779921207625
+pca,leiden,pca_leiden,15,Mesothelial cell,-0.05107070306380847
+pca,leiden,pca_leiden,16,T cell,-0.5895774267673243
+pca,leiden,pca_leiden,16,B cell,0.43092356483266536
+pca,leiden,pca_leiden,16,Plasma cell,-0.1935196969849995
+pca,leiden,pca_leiden,16,NK cell,-0.27979561575397505
+pca,leiden,pca_leiden,16,Macrophage,-0.3255919543889583
+pca,leiden,pca_leiden,16,Monocyte,-0.19156673538922264
+pca,leiden,pca_leiden,16,Dendritic cell,0.05516254378116991
+pca,leiden,pca_leiden,16,Mast cell,-0.056291803092358005
+pca,leiden,pca_leiden,16,Epithelial cell,-0.15523295248583216
+pca,leiden,pca_leiden,16,Endothelial cell,1.5693483731851638
+pca,leiden,pca_leiden,16,Fibroblast,-0.11180505145704923
+pca,leiden,pca_leiden,16,Myofibroblast,0.008828129011389987
+pca,leiden,pca_leiden,16,Pericyte,0.21757645725141783
+pca,leiden,pca_leiden,16,Smooth muscle cell,-0.018993836477305157
+pca,leiden,pca_leiden,16,Mesothelial cell,-0.02895630389701895
+autoencoder,kmeans,autoencoder_kmeans,0,T cell,-0.622017245973118
+autoencoder,kmeans,autoencoder_kmeans,0,B cell,0.029684754471196863
+autoencoder,kmeans,autoencoder_kmeans,0,Plasma cell,-0.1527441154043102
+autoencoder,kmeans,autoencoder_kmeans,0,NK cell,-0.30839044651710334
+autoencoder,kmeans,autoencoder_kmeans,0,Macrophage,-0.22784795351687032
+autoencoder,kmeans,autoencoder_kmeans,0,Monocyte,-0.21050424143129548
+autoencoder,kmeans,autoencoder_kmeans,0,Dendritic cell,-0.1349818018936308
+autoencoder,kmeans,autoencoder_kmeans,0,Mast cell,-0.1245563346204972
+autoencoder,kmeans,autoencoder_kmeans,0,Epithelial cell,-0.16939264699622356
+autoencoder,kmeans,autoencoder_kmeans,0,Endothelial cell,0.36493837202401946
+autoencoder,kmeans,autoencoder_kmeans,0,Fibroblast,1.7181230616509593
+autoencoder,kmeans,autoencoder_kmeans,0,Myofibroblast,0.49729416099619994
+autoencoder,kmeans,autoencoder_kmeans,0,Pericyte,0.2184216411451541
+autoencoder,kmeans,autoencoder_kmeans,0,Smooth muscle cell,0.423616021020084
+autoencoder,kmeans,autoencoder_kmeans,0,Mesothelial cell,-0.030496046241141488
+autoencoder,kmeans,autoencoder_kmeans,1,T cell,-0.588579466154471
+autoencoder,kmeans,autoencoder_kmeans,1,B cell,1.2068627963871834
+autoencoder,kmeans,autoencoder_kmeans,1,Plasma cell,-0.14599144777187778
+autoencoder,kmeans,autoencoder_kmeans,1,NK cell,-0.2937301180091831
+autoencoder,kmeans,autoencoder_kmeans,1,Macrophage,1.3883544267822934
+autoencoder,kmeans,autoencoder_kmeans,1,Monocyte,1.2172326635756503
+autoencoder,kmeans,autoencoder_kmeans,1,Dendritic cell,0.714311825723757
+autoencoder,kmeans,autoencoder_kmeans,1,Mast cell,-0.14495139160658396
+autoencoder,kmeans,autoencoder_kmeans,1,Epithelial cell,-0.20224338454982863
+autoencoder,kmeans,autoencoder_kmeans,1,Endothelial cell,0.025690153361070164
+autoencoder,kmeans,autoencoder_kmeans,1,Fibroblast,-0.10097297804717038
+autoencoder,kmeans,autoencoder_kmeans,1,Myofibroblast,-0.024609028964586697
+autoencoder,kmeans,autoencoder_kmeans,1,Pericyte,-0.004586366125361737
+autoencoder,kmeans,autoencoder_kmeans,1,Smooth muscle cell,-0.015055051241477473
+autoencoder,kmeans,autoencoder_kmeans,1,Mesothelial cell,-0.06254699822294409
+autoencoder,kmeans,autoencoder_kmeans,2,T cell,-0.6544100287806548
+autoencoder,kmeans,autoencoder_kmeans,2,B cell,0.27836451091031056
+autoencoder,kmeans,autoencoder_kmeans,2,Plasma cell,0.02922749279998302
+autoencoder,kmeans,autoencoder_kmeans,2,NK cell,-0.25386862243699
+autoencoder,kmeans,autoencoder_kmeans,2,Macrophage,-0.4132152018749775
+autoencoder,kmeans,autoencoder_kmeans,2,Monocyte,0.028465948219033
+autoencoder,kmeans,autoencoder_kmeans,2,Dendritic cell,-0.023032224481456063
+autoencoder,kmeans,autoencoder_kmeans,2,Mast cell,-0.16623059036420101
+autoencoder,kmeans,autoencoder_kmeans,2,Epithelial cell,1.0134258394218219
+autoencoder,kmeans,autoencoder_kmeans,2,Endothelial cell,-0.06108228573265677
+autoencoder,kmeans,autoencoder_kmeans,2,Fibroblast,-0.10043746818231519
+autoencoder,kmeans,autoencoder_kmeans,2,Myofibroblast,-0.04202537298058768
+autoencoder,kmeans,autoencoder_kmeans,2,Pericyte,-0.036532738870387355
+autoencoder,kmeans,autoencoder_kmeans,2,Smooth muscle cell,-0.03549706431834943
+autoencoder,kmeans,autoencoder_kmeans,2,Mesothelial cell,0.7029467730425772
+autoencoder,kmeans,autoencoder_kmeans,3,T cell,-0.7444210093045563
+autoencoder,kmeans,autoencoder_kmeans,3,B cell,0.0038808509272994654
+autoencoder,kmeans,autoencoder_kmeans,3,Plasma cell,-0.0017972620605587826
+autoencoder,kmeans,autoencoder_kmeans,3,NK cell,-0.3478462684162238
+autoencoder,kmeans,autoencoder_kmeans,3,Macrophage,-0.4041998215432264
+autoencoder,kmeans,autoencoder_kmeans,3,Monocyte,0.16011148693555716
+autoencoder,kmeans,autoencoder_kmeans,3,Dendritic cell,-0.14091187768816474
+autoencoder,kmeans,autoencoder_kmeans,3,Mast cell,-0.20668725514551023
+autoencoder,kmeans,autoencoder_kmeans,3,Epithelial cell,1.6355245683739033
+autoencoder,kmeans,autoencoder_kmeans,3,Endothelial cell,-0.06055242319072797
+autoencoder,kmeans,autoencoder_kmeans,3,Fibroblast,-0.005453233319016834
+autoencoder,kmeans,autoencoder_kmeans,3,Myofibroblast,-0.0730668019627093
+autoencoder,kmeans,autoencoder_kmeans,3,Pericyte,-0.014674567815567842
+autoencoder,kmeans,autoencoder_kmeans,3,Smooth muscle cell,-0.05997197607848219
+autoencoder,kmeans,autoencoder_kmeans,3,Mesothelial cell,1.1088862300575963
+autoencoder,kmeans,autoencoder_kmeans,4,T cell,-0.495860211507056
+autoencoder,kmeans,autoencoder_kmeans,4,B cell,0.23361436151092183
+autoencoder,kmeans,autoencoder_kmeans,4,Plasma cell,-0.1074934791694694
+autoencoder,kmeans,autoencoder_kmeans,4,NK cell,-0.23856945152381348
+autoencoder,kmeans,autoencoder_kmeans,4,Macrophage,-0.10128616133430993
+autoencoder,kmeans,autoencoder_kmeans,4,Monocyte,0.07669203622162658
+autoencoder,kmeans,autoencoder_kmeans,4,Dendritic cell,0.2093006024454964
+autoencoder,kmeans,autoencoder_kmeans,4,Mast cell,3.054254689100525
+autoencoder,kmeans,autoencoder_kmeans,4,Epithelial cell,-0.12689388357527517
+autoencoder,kmeans,autoencoder_kmeans,4,Endothelial cell,-0.028754382725449768
+autoencoder,kmeans,autoencoder_kmeans,4,Fibroblast,-0.05994352070149297
+autoencoder,kmeans,autoencoder_kmeans,4,Myofibroblast,-0.016815075453616712
+autoencoder,kmeans,autoencoder_kmeans,4,Pericyte,-0.015665730843281277
+autoencoder,kmeans,autoencoder_kmeans,4,Smooth muscle cell,-0.011310345472301862
+autoencoder,kmeans,autoencoder_kmeans,4,Mesothelial cell,-0.0016156848834675136
+autoencoder,kmeans,autoencoder_kmeans,5,T cell,0.928285521323278
+autoencoder,kmeans,autoencoder_kmeans,5,B cell,0.339479118012444
+autoencoder,kmeans,autoencoder_kmeans,5,Plasma cell,-0.09697510534894727
+autoencoder,kmeans,autoencoder_kmeans,5,NK cell,-0.2100934010164169
+autoencoder,kmeans,autoencoder_kmeans,5,Macrophage,-0.29577755662125793
+autoencoder,kmeans,autoencoder_kmeans,5,Monocyte,-0.17957476310837592
+autoencoder,kmeans,autoencoder_kmeans,5,Dendritic cell,-0.08516306138944688
+autoencoder,kmeans,autoencoder_kmeans,5,Mast cell,-0.09520505843511748
+autoencoder,kmeans,autoencoder_kmeans,5,Epithelial cell,-0.09223116969448071
+autoencoder,kmeans,autoencoder_kmeans,5,Endothelial cell,-0.028901460018901603
+autoencoder,kmeans,autoencoder_kmeans,5,Fibroblast,-0.0540676116756172
+autoencoder,kmeans,autoencoder_kmeans,5,Myofibroblast,-0.012112034357661419
+autoencoder,kmeans,autoencoder_kmeans,5,Pericyte,-0.011509185836132594
+autoencoder,kmeans,autoencoder_kmeans,5,Smooth muscle cell,-0.0047217279646976145
+autoencoder,kmeans,autoencoder_kmeans,5,Mesothelial cell,-0.019563827333217508
+autoencoder,kmeans,autoencoder_kmeans,6,T cell,0.7116246925453248
+autoencoder,kmeans,autoencoder_kmeans,6,B cell,0.43476537039320334
+autoencoder,kmeans,autoencoder_kmeans,6,Plasma cell,-0.10658896829523809
+autoencoder,kmeans,autoencoder_kmeans,6,NK cell,0.5881793084466815
+autoencoder,kmeans,autoencoder_kmeans,6,Macrophage,-0.2737031572736216
+autoencoder,kmeans,autoencoder_kmeans,6,Monocyte,-0.13042878285548926
+autoencoder,kmeans,autoencoder_kmeans,6,Dendritic cell,-0.00997527719408951
+autoencoder,kmeans,autoencoder_kmeans,6,Mast cell,-0.09690901736815652
+autoencoder,kmeans,autoencoder_kmeans,6,Epithelial cell,-0.07845407499175769
+autoencoder,kmeans,autoencoder_kmeans,6,Endothelial cell,-0.02188261775789979
+autoencoder,kmeans,autoencoder_kmeans,6,Fibroblast,-0.045169644505478924
+autoencoder,kmeans,autoencoder_kmeans,6,Myofibroblast,-0.013298744022071167
+autoencoder,kmeans,autoencoder_kmeans,6,Pericyte,-0.011650587622866936
+autoencoder,kmeans,autoencoder_kmeans,6,Smooth muscle cell,-0.00705976589100601
+autoencoder,kmeans,autoencoder_kmeans,6,Mesothelial cell,-0.0026808029403341533
+autoencoder,kmeans,autoencoder_kmeans,7,T cell,-0.38675462976682895
+autoencoder,kmeans,autoencoder_kmeans,7,B cell,1.8332554093766702
+autoencoder,kmeans,autoencoder_kmeans,7,Plasma cell,0.3703807572857641
+autoencoder,kmeans,autoencoder_kmeans,7,NK cell,-0.20712219597459697
+autoencoder,kmeans,autoencoder_kmeans,7,Macrophage,-0.22094336158719224
+autoencoder,kmeans,autoencoder_kmeans,7,Monocyte,-0.1427032501768008
+autoencoder,kmeans,autoencoder_kmeans,7,Dendritic cell,0.5547766572921707
+autoencoder,kmeans,autoencoder_kmeans,7,Mast cell,-0.07679996390596626
+autoencoder,kmeans,autoencoder_kmeans,7,Epithelial cell,-0.07931155186793803
+autoencoder,kmeans,autoencoder_kmeans,7,Endothelial cell,-0.01445096931075104
+autoencoder,kmeans,autoencoder_kmeans,7,Fibroblast,-0.04471954705264056
+autoencoder,kmeans,autoencoder_kmeans,7,Myofibroblast,-0.019978179726766358
+autoencoder,kmeans,autoencoder_kmeans,7,Pericyte,-0.011906707929614051
+autoencoder,kmeans,autoencoder_kmeans,7,Smooth muscle cell,-0.012047854929231725
+autoencoder,kmeans,autoencoder_kmeans,7,Mesothelial cell,-0.040078241858253386
+autoencoder,leiden,autoencoder_leiden,0,T cell,0.9124486506008203
+autoencoder,leiden,autoencoder_leiden,0,B cell,0.3414333760271758
+autoencoder,leiden,autoencoder_leiden,0,Plasma cell,-0.09712878769608424
+autoencoder,leiden,autoencoder_leiden,0,NK cell,-0.18609653848486954
+autoencoder,leiden,autoencoder_leiden,0,Macrophage,-0.29230134003949276
+autoencoder,leiden,autoencoder_leiden,0,Monocyte,-0.1751535293405183
+autoencoder,leiden,autoencoder_leiden,0,Dendritic cell,-0.07903586260399774
+autoencoder,leiden,autoencoder_leiden,0,Mast cell,-0.09392788507166529
+autoencoder,leiden,autoencoder_leiden,0,Epithelial cell,-0.08544051831492458
+autoencoder,leiden,autoencoder_leiden,0,Endothelial cell,-0.027953137061188883
+autoencoder,leiden,autoencoder_leiden,0,Fibroblast,-0.05171570983277453
+autoencoder,leiden,autoencoder_leiden,0,Myofibroblast,-0.012212134908763335
+autoencoder,leiden,autoencoder_leiden,0,Pericyte,-0.011133384676194074
+autoencoder,leiden,autoencoder_leiden,0,Smooth muscle cell,-0.004923384617157063
+autoencoder,leiden,autoencoder_leiden,0,Mesothelial cell,-0.014555249892105928
+autoencoder,leiden,autoencoder_leiden,1,T cell,0.6871936577450991
+autoencoder,leiden,autoencoder_leiden,1,B cell,0.4515342005066531
+autoencoder,leiden,autoencoder_leiden,1,Plasma cell,-0.10821723675872483
+autoencoder,leiden,autoencoder_leiden,1,NK cell,0.7260502592725455
+autoencoder,leiden,autoencoder_leiden,1,Macrophage,-0.27403789893182723
+autoencoder,leiden,autoencoder_leiden,1,Monocyte,-0.1259761158785133
+autoencoder,leiden,autoencoder_leiden,1,Dendritic cell,-0.0024761368988864088
+autoencoder,leiden,autoencoder_leiden,1,Mast cell,-0.09884726523599388
+autoencoder,leiden,autoencoder_leiden,1,Epithelial cell,-0.08476650129997118
+autoencoder,leiden,autoencoder_leiden,1,Endothelial cell,-0.021608720687854268
+autoencoder,leiden,autoencoder_leiden,1,Fibroblast,-0.046609615239129605
+autoencoder,leiden,autoencoder_leiden,1,Myofibroblast,-0.013535489921740302
+autoencoder,leiden,autoencoder_leiden,1,Pericyte,-0.012179182031750438
+autoencoder,leiden,autoencoder_leiden,1,Smooth muscle cell,-0.007309329175998059
+autoencoder,leiden,autoencoder_leiden,1,Mesothelial cell,-0.005958884995902632
+autoencoder,leiden,autoencoder_leiden,2,T cell,-0.5779999320173044
+autoencoder,leiden,autoencoder_leiden,2,B cell,1.1898088658296506
+autoencoder,leiden,autoencoder_leiden,2,Plasma cell,-0.1301905317551073
+autoencoder,leiden,autoencoder_leiden,2,NK cell,-0.29086019924944057
+autoencoder,leiden,autoencoder_leiden,2,Macrophage,1.2792008749175254
+autoencoder,leiden,autoencoder_leiden,2,Monocyte,1.1239272175326112
+autoencoder,leiden,autoencoder_leiden,2,Dendritic cell,0.7230494882038659
+autoencoder,leiden,autoencoder_leiden,2,Mast cell,-0.14474922779674534
+autoencoder,leiden,autoencoder_leiden,2,Epithelial cell,-0.19396095253242807
+autoencoder,leiden,autoencoder_leiden,2,Endothelial cell,0.021180665401228555
+autoencoder,leiden,autoencoder_leiden,2,Fibroblast,-0.09783355284118035
+autoencoder,leiden,autoencoder_leiden,2,Myofibroblast,-0.025736391737010898
+autoencoder,leiden,autoencoder_leiden,2,Pericyte,-0.0035417025691546465
+autoencoder,leiden,autoencoder_leiden,2,Smooth muscle cell,-0.0160145956522926
+autoencoder,leiden,autoencoder_leiden,2,Mesothelial cell,-0.06018770368930111
+autoencoder,leiden,autoencoder_leiden,3,T cell,-0.4081182569674266
+autoencoder,leiden,autoencoder_leiden,3,B cell,2.3011484169080427
+autoencoder,leiden,autoencoder_leiden,3,Plasma cell,0.024349372926641678
+autoencoder,leiden,autoencoder_leiden,3,NK cell,-0.22414541132213828
+autoencoder,leiden,autoencoder_leiden,3,Macrophage,-0.2458992903581633
+autoencoder,leiden,autoencoder_leiden,3,Monocyte,-0.18037930756189344
+autoencoder,leiden,autoencoder_leiden,3,Dendritic cell,0.7350609033191127
+autoencoder,leiden,autoencoder_leiden,3,Mast cell,-0.08238746989941337
+autoencoder,leiden,autoencoder_leiden,3,Epithelial cell,-0.08290416177529243
+autoencoder,leiden,autoencoder_leiden,3,Endothelial cell,-0.026576591281048764
+autoencoder,leiden,autoencoder_leiden,3,Fibroblast,-0.0515100069893754
+autoencoder,leiden,autoencoder_leiden,3,Myofibroblast,-0.02232961349367929
+autoencoder,leiden,autoencoder_leiden,3,Pericyte,-0.012767201736015794
+autoencoder,leiden,autoencoder_leiden,3,Smooth muscle cell,-0.012742275613432044
+autoencoder,leiden,autoencoder_leiden,3,Mesothelial cell,-0.048933077348325055
+autoencoder,leiden,autoencoder_leiden,4,T cell,-0.6884308960957539
+autoencoder,leiden,autoencoder_leiden,4,B cell,0.07505596779087438
+autoencoder,leiden,autoencoder_leiden,4,Plasma cell,0.02970479213140619
+autoencoder,leiden,autoencoder_leiden,4,NK cell,-0.24894014486382368
+autoencoder,leiden,autoencoder_leiden,4,Macrophage,-0.4926676955588976
+autoencoder,leiden,autoencoder_leiden,4,Monocyte,0.002021018705975509
+autoencoder,leiden,autoencoder_leiden,4,Dendritic cell,-0.13444340174404837
+autoencoder,leiden,autoencoder_leiden,4,Mast cell,-0.19414963649652045
+autoencoder,leiden,autoencoder_leiden,4,Epithelial cell,1.1550480320001355
+autoencoder,leiden,autoencoder_leiden,4,Endothelial cell,-0.06897480104357348
+autoencoder,leiden,autoencoder_leiden,4,Fibroblast,-0.10114072136552858
+autoencoder,leiden,autoencoder_leiden,4,Myofibroblast,-0.045671465296333535
+autoencoder,leiden,autoencoder_leiden,4,Pericyte,-0.041335716551422846
+autoencoder,leiden,autoencoder_leiden,4,Smooth muscle cell,-0.03167100273932528
+autoencoder,leiden,autoencoder_leiden,4,Mesothelial cell,0.8242631149464608
+autoencoder,leiden,autoencoder_leiden,5,T cell,-0.6226593552034962
+autoencoder,leiden,autoencoder_leiden,5,B cell,0.4912220390440982
+autoencoder,leiden,autoencoder_leiden,5,Plasma cell,0.032229638768587365
+autoencoder,leiden,autoencoder_leiden,5,NK cell,-0.26185301128142113
+autoencoder,leiden,autoencoder_leiden,5,Macrophage,-0.3259606881352687
+autoencoder,leiden,autoencoder_leiden,5,Monocyte,0.06612425747131903
+autoencoder,leiden,autoencoder_leiden,5,Dendritic cell,0.09193199488018933
+autoencoder,leiden,autoencoder_leiden,5,Mast cell,-0.13510471491520973
+autoencoder,leiden,autoencoder_leiden,5,Epithelial cell,0.8911808599797625
+autoencoder,leiden,autoencoder_leiden,5,Endothelial cell,-0.05253727113059167
+autoencoder,leiden,autoencoder_leiden,5,Fibroblast,-0.09638981173571431
+autoencoder,leiden,autoencoder_leiden,5,Myofibroblast,-0.03796017067926216
+autoencoder,leiden,autoencoder_leiden,5,Pericyte,-0.03106682388921328
+autoencoder,leiden,autoencoder_leiden,5,Smooth muscle cell,-0.03956363376904532
+autoencoder,leiden,autoencoder_leiden,5,Mesothelial cell,0.5901995984782835
+autoencoder,leiden,autoencoder_leiden,6,T cell,-0.4945969278807134
+autoencoder,leiden,autoencoder_leiden,6,B cell,0.23515709659496767
+autoencoder,leiden,autoencoder_leiden,6,Plasma cell,-0.10783373951806273
+autoencoder,leiden,autoencoder_leiden,6,NK cell,-0.23818589513126906
+autoencoder,leiden,autoencoder_leiden,6,Macrophage,-0.10547638882336187
+autoencoder,leiden,autoencoder_leiden,6,Monocyte,0.07497832076343815
+autoencoder,leiden,autoencoder_leiden,6,Dendritic cell,0.2114647449021982
+autoencoder,leiden,autoencoder_leiden,6,Mast cell,3.0740637257644647
+autoencoder,leiden,autoencoder_leiden,6,Epithelial cell,-0.12790454554208283
+autoencoder,leiden,autoencoder_leiden,6,Endothelial cell,-0.0286193784425656
+autoencoder,leiden,autoencoder_leiden,6,Fibroblast,-0.058866383924603624
+autoencoder,leiden,autoencoder_leiden,6,Myofibroblast,-0.016427960516143713
+autoencoder,leiden,autoencoder_leiden,6,Pericyte,-0.01595749971085945
+autoencoder,leiden,autoencoder_leiden,6,Smooth muscle cell,-0.011121493214384204
+autoencoder,leiden,autoencoder_leiden,6,Mesothelial cell,-0.002108941886541063
+autoencoder,leiden,autoencoder_leiden,7,T cell,-0.6299561318274237
+autoencoder,leiden,autoencoder_leiden,7,B cell,-0.12403250326075284
+autoencoder,leiden,autoencoder_leiden,7,Plasma cell,-0.13701734456371892
+autoencoder,leiden,autoencoder_leiden,7,NK cell,-0.31785728649326955
+autoencoder,leiden,autoencoder_leiden,7,Macrophage,-0.190165843586997
+autoencoder,leiden,autoencoder_leiden,7,Monocyte,-0.22139721358616193
+autoencoder,leiden,autoencoder_leiden,7,Dendritic cell,-0.20743801080872212
+autoencoder,leiden,autoencoder_leiden,7,Mast cell,-0.1509203978161458
+autoencoder,leiden,autoencoder_leiden,7,Epithelial cell,-0.197247934618591
+autoencoder,leiden,autoencoder_leiden,7,Endothelial cell,-0.09135856061157191
+autoencoder,leiden,autoencoder_leiden,7,Fibroblast,2.433581495866102
+autoencoder,leiden,autoencoder_leiden,7,Myofibroblast,0.6903289251573005
+autoencoder,leiden,autoencoder_leiden,7,Pericyte,0.2197439220507749
+autoencoder,leiden,autoencoder_leiden,7,Smooth muscle cell,0.5978500665577381
+autoencoder,leiden,autoencoder_leiden,7,Mesothelial cell,-0.058125374124446315
+autoencoder,leiden,autoencoder_leiden,8,T cell,-0.30428736309899795
+autoencoder,leiden,autoencoder_leiden,8,B cell,0.6026287391797891
+autoencoder,leiden,autoencoder_leiden,8,Plasma cell,1.4648240039958857
+autoencoder,leiden,autoencoder_leiden,8,NK cell,-0.14454362181879138
+autoencoder,leiden,autoencoder_leiden,8,Macrophage,-0.14708586021526343
+autoencoder,leiden,autoencoder_leiden,8,Monocyte,-0.057732869313986246
+autoencoder,leiden,autoencoder_leiden,8,Dendritic cell,-0.04758753649865145
+autoencoder,leiden,autoencoder_leiden,8,Mast cell,-0.046559330267882906
+autoencoder,leiden,autoencoder_leiden,8,Epithelial cell,-0.05502306608252531
+autoencoder,leiden,autoencoder_leiden,8,Endothelial cell,0.01867580032826573
+autoencoder,leiden,autoencoder_leiden,8,Fibroblast,-0.01660781924517299
+autoencoder,leiden,autoencoder_leiden,8,Myofibroblast,-0.009951900239631602
+autoencoder,leiden,autoencoder_leiden,8,Pericyte,-0.006987714946224033
+autoencoder,leiden,autoencoder_leiden,8,Smooth muscle cell,-0.007600803706164043
+autoencoder,leiden,autoencoder_leiden,8,Mesothelial cell,-0.008871322097048542
+autoencoder,leiden,autoencoder_leiden,9,T cell,-0.7201377061371823
+autoencoder,leiden,autoencoder_leiden,9,B cell,0.13730838329425077
+autoencoder,leiden,autoencoder_leiden,9,Plasma cell,-0.048726844492013026
+autoencoder,leiden,autoencoder_leiden,9,NK cell,-0.34208832184906474
+autoencoder,leiden,autoencoder_leiden,9,Macrophage,-0.3503036863737852
+autoencoder,leiden,autoencoder_leiden,9,Monocyte,0.28759822211973574
+autoencoder,leiden,autoencoder_leiden,9,Dendritic cell,-0.09512243796154611
+autoencoder,leiden,autoencoder_leiden,9,Mast cell,-0.194865019023742
+autoencoder,leiden,autoencoder_leiden,9,Epithelial cell,1.6060941374735958
+autoencoder,leiden,autoencoder_leiden,9,Endothelial cell,-0.04175053573887589
+autoencoder,leiden,autoencoder_leiden,9,Fibroblast,0.0970754870935464
+autoencoder,leiden,autoencoder_leiden,9,Myofibroblast,-0.06320479996408494
+autoencoder,leiden,autoencoder_leiden,9,Pericyte,0.01794470549293113
+autoencoder,leiden,autoencoder_leiden,9,Smooth muscle cell,-0.05280605252706784
+autoencoder,leiden,autoencoder_leiden,9,Mesothelial cell,1.1515565195513018
+autoencoder,leiden,autoencoder_leiden,10,T cell,-0.7679097477988636
+autoencoder,leiden,autoencoder_leiden,10,B cell,-0.16195247879436425
+autoencoder,leiden,autoencoder_leiden,10,Plasma cell,0.043155986930700115
+autoencoder,leiden,autoencoder_leiden,10,NK cell,-0.3538206246555178
+autoencoder,leiden,autoencoder_leiden,10,Macrophage,-0.44366609067319285
+autoencoder,leiden,autoencoder_leiden,10,Monocyte,0.004039123292096638
+autoencoder,leiden,autoencoder_leiden,10,Dendritic cell,-0.19404128840659576
+autoencoder,leiden,autoencoder_leiden,10,Mast cell,-0.21985751551560376
+autoencoder,leiden,autoencoder_leiden,10,Epithelial cell,1.610018179923625
+autoencoder,leiden,autoencoder_leiden,10,Endothelial cell,-0.08365467745325549
+autoencoder,leiden,autoencoder_leiden,10,Fibroblast,-0.12554766074494847
+autoencoder,leiden,autoencoder_leiden,10,Myofibroblast,-0.08632567862781611
+autoencoder,leiden,autoencoder_leiden,10,Pericyte,-0.051403580272002106
+autoencoder,leiden,autoencoder_leiden,10,Smooth muscle cell,-0.06954817358831104
+autoencoder,leiden,autoencoder_leiden,10,Mesothelial cell,1.0240330106629827
+autoencoder,leiden,autoencoder_leiden,11,T cell,-0.6338916564812022
+autoencoder,leiden,autoencoder_leiden,11,B cell,1.465391212194149
+autoencoder,leiden,autoencoder_leiden,11,Plasma cell,-0.1789890029499346
+autoencoder,leiden,autoencoder_leiden,11,NK cell,-0.2971684123057664
+autoencoder,leiden,autoencoder_leiden,11,Macrophage,1.7879639285998965
+autoencoder,leiden,autoencoder_leiden,11,Monocyte,1.6222972853682867
+autoencoder,leiden,autoencoder_leiden,11,Dendritic cell,0.6692227271597395
+autoencoder,leiden,autoencoder_leiden,11,Mast cell,-0.13280713238202224
+autoencoder,leiden,autoencoder_leiden,11,Epithelial cell,-0.2604049605916937
+autoencoder,leiden,autoencoder_leiden,11,Endothelial cell,0.06269794302567676
+autoencoder,leiden,autoencoder_leiden,11,Fibroblast,-0.12259829366737576
+autoencoder,leiden,autoencoder_leiden,11,Myofibroblast,-0.010992055517030985
+autoencoder,leiden,autoencoder_leiden,11,Pericyte,-0.025807240629514512
+autoencoder,leiden,autoencoder_leiden,11,Smooth muscle cell,-0.0035579146756748387
+autoencoder,leiden,autoencoder_leiden,11,Mesothelial cell,-0.08846739591930274
+autoencoder,leiden,autoencoder_leiden,12,T cell,-0.5847230671799634
+autoencoder,leiden,autoencoder_leiden,12,B cell,0.43478046457158154
+autoencoder,leiden,autoencoder_leiden,12,Plasma cell,-0.19369718562249819
+autoencoder,leiden,autoencoder_leiden,12,NK cell,-0.2799922649088828
+autoencoder,leiden,autoencoder_leiden,12,Macrophage,-0.31470593537488334
+autoencoder,leiden,autoencoder_leiden,12,Monocyte,-0.18465700765852486
+autoencoder,leiden,autoencoder_leiden,12,Dendritic cell,0.05767022559190582
+autoencoder,leiden,autoencoder_leiden,12,Mast cell,-0.05731027198956382
+autoencoder,leiden,autoencoder_leiden,12,Epithelial cell,-0.15602364211697298
+autoencoder,leiden,autoencoder_leiden,12,Endothelial cell,1.5627485674308828
+autoencoder,leiden,autoencoder_leiden,12,Fibroblast,-0.11104248221820162
+autoencoder,leiden,autoencoder_leiden,12,Myofibroblast,0.008210508704268865
+autoencoder,leiden,autoencoder_leiden,12,Pericyte,0.2156352273202919
+autoencoder,leiden,autoencoder_leiden,12,Smooth muscle cell,-0.019199458925819198
+autoencoder,leiden,autoencoder_leiden,12,Mesothelial cell,-0.02937344174980808
+autoencoder,leiden,autoencoder_leiden,13,T cell,-0.8376417420091837
+autoencoder,leiden,autoencoder_leiden,13,B cell,-0.10924345309319704
+autoencoder,leiden,autoencoder_leiden,13,Plasma cell,-0.10732765490573302
+autoencoder,leiden,autoencoder_leiden,13,NK cell,-0.3589525574013807
+autoencoder,leiden,autoencoder_leiden,13,Macrophage,-0.4972884187059126
+autoencoder,leiden,autoencoder_leiden,13,Monocyte,-0.22387279926866724
+autoencoder,leiden,autoencoder_leiden,13,Dendritic cell,-0.24409933300981465
+autoencoder,leiden,autoencoder_leiden,13,Mast cell,-0.20639340803675027
+autoencoder,leiden,autoencoder_leiden,13,Epithelial cell,1.2401918034099098
+autoencoder,leiden,autoencoder_leiden,13,Endothelial cell,0.014545237748519235
+autoencoder,leiden,autoencoder_leiden,13,Fibroblast,1.0371500517863421
+autoencoder,leiden,autoencoder_leiden,13,Myofibroblast,0.14031791541049576
+autoencoder,leiden,autoencoder_leiden,13,Pericyte,0.23973801353703372
+autoencoder,leiden,autoencoder_leiden,13,Smooth muscle cell,0.13701469703860905
+autoencoder,leiden,autoencoder_leiden,13,Mesothelial cell,1.791794145141823

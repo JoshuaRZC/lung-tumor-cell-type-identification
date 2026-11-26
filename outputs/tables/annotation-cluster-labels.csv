@@ -1,0 +1,46 @@
+representation,method,combination,cluster,predicted_label,predicted_score,supporting_markers
+pca,kmeans,pca_kmeans,0,Macrophage,1.4154427364871243,CD68
+pca,kmeans,pca_kmeans,1,T cell,0.8052008466261871,"TRAC, CD3D, CD3E"
+pca,kmeans,pca_kmeans,2,Epithelial cell,1.2365674352317007,"KRT18, KRT19, KRT8, EPCAM, KRT7"
+pca,kmeans,pca_kmeans,3,B cell,1.8191972575708413,"CD79A, CD74, MS4A1, CD37, HLA-DRA"
+pca,kmeans,pca_kmeans,4,Fibroblast,1.7750846434563063,"DCN, COL1A2"
+pca,kmeans,pca_kmeans,5,Mast cell,3.0752845812417817,"TPSB2, TPSAB1, CPA3, MS4A2, GATA2"
+pca,leiden,pca_leiden,0,T cell,0.8773841257435379,"TRAC, CD3D, CD3E"
+pca,leiden,pca_leiden,1,Macrophage,1.804102036435522,"CD68, APOE, C1QB, C1QC"
+pca,leiden,pca_leiden,2,T cell,0.9130531423794522,"TRAC, CD3D, CD3E, IL7R"
+pca,leiden,pca_leiden,3,T cell,0.8251046670515032,"CD3D, TRAC, CD3E"
+pca,leiden,pca_leiden,4,B cell,2.2923538776299104,"CD79A, CD37, MS4A1, CD74, HLA-DRA"
+pca,leiden,pca_leiden,5,B cell,1.2690127353145844,"HLA-DRA, CD74"
+pca,leiden,pca_leiden,6,Epithelial cell,1.1678902470205494,KRT18
+pca,leiden,pca_leiden,7,Epithelial cell,0.880722642412403,
+pca,leiden,pca_leiden,8,Mast cell,3.070115806691666,"TPSB2, TPSAB1, CPA3, MS4A2, GATA2"
+pca,leiden,pca_leiden,9,Fibroblast,2.4261093684486035,"DCN, COL1A2, LUM, COL1A1"
+pca,leiden,pca_leiden,10,Epithelial cell,1.5529179042799686,"KRT19, KRT18, KRT8, KRT7, EPCAM"
+pca,leiden,pca_leiden,11,T cell,0.7161052177032066,CD3D
+pca,leiden,pca_leiden,12,Plasma cell,1.4629707223442854,"MZB1, XBP1, JCHAIN, TNFRSF17"
+pca,leiden,pca_leiden,13,NK cell,1.8660567235985048,"NKG7, GNLY, KLRD1, PRF1, KLRF1"
+pca,leiden,pca_leiden,14,Epithelial cell,1.597246213172985,"KRT7, KRT19, EPCAM, KRT8, KRT18"
+pca,leiden,pca_leiden,15,Macrophage,1.454084500834469,"C1QB, CD68"
+pca,leiden,pca_leiden,16,Endothelial cell,1.5693483731851638,"RAMP2, CLDN5, PECAM1, VWF"
+autoencoder,kmeans,autoencoder_kmeans,0,Fibroblast,1.7181230616509593,"DCN, COL1A2"
+autoencoder,kmeans,autoencoder_kmeans,1,Macrophage,1.3883544267822934,CD68
+autoencoder,kmeans,autoencoder_kmeans,2,Epithelial cell,1.0134258394218219,KRT18
+autoencoder,kmeans,autoencoder_kmeans,3,Epithelial cell,1.6355245683739033,"KRT19, KRT7, KRT18, KRT8, EPCAM"
+autoencoder,kmeans,autoencoder_kmeans,4,Mast cell,3.054254689100525,"TPSB2, TPSAB1, CPA3, MS4A2, GATA2"
+autoencoder,kmeans,autoencoder_kmeans,5,T cell,0.928285521323278,"TRAC, CD3D, CD3E, IL7R"
+autoencoder,kmeans,autoencoder_kmeans,6,T cell,0.7116246925453248,"CD3D, TRAC, CD3E"
+autoencoder,kmeans,autoencoder_kmeans,7,B cell,1.8332554093766702,"CD79A, MS4A1, CD74, CD37, HLA-DRA"
+autoencoder,leiden,autoencoder_leiden,0,T cell,0.9124486506008203,"TRAC, CD3D, CD3E, IL7R"
+autoencoder,leiden,autoencoder_leiden,1,NK cell,0.7260502592725455,NKG7
+autoencoder,leiden,autoencoder_leiden,2,Macrophage,1.2792008749175254,CD68
+autoencoder,leiden,autoencoder_leiden,3,B cell,2.3011484169080427,"CD79A, CD37, MS4A1, CD74, HLA-DRA"
+autoencoder,leiden,autoencoder_leiden,4,Epithelial cell,1.1550480320001355,KRT18
+autoencoder,leiden,autoencoder_leiden,5,Epithelial cell,0.8911808599797625,
+autoencoder,leiden,autoencoder_leiden,6,Mast cell,3.0740637257644647,"TPSB2, TPSAB1, CPA3, MS4A2, GATA2"
+autoencoder,leiden,autoencoder_leiden,7,Fibroblast,2.433581495866102,"DCN, COL1A2, LUM"
+autoencoder,leiden,autoencoder_leiden,8,Plasma cell,1.4648240039958857,"MZB1, XBP1, JCHAIN, TNFRSF17"
+autoencoder,leiden,autoencoder_leiden,9,Epithelial cell,1.6060941374735958,"KRT19, KRT18, KRT7, KRT8"
+autoencoder,leiden,autoencoder_leiden,10,Epithelial cell,1.610018179923625,"KRT7, KRT19, EPCAM, KRT8, KRT18"
+autoencoder,leiden,autoencoder_leiden,11,Macrophage,1.7879639285998965,"CD68, C1QB"
+autoencoder,leiden,autoencoder_leiden,12,Endothelial cell,1.5627485674308828,"RAMP2, CLDN5, PECAM1, VWF"
+autoencoder,leiden,autoencoder_leiden,13,Mesothelial cell,1.791794145141823,

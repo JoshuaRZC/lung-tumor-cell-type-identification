@@ -1,0 +1,144 @@
+# Lung and tumor-microenvironment marker panel for annotation.
+source:
+  database: CellMarker 2.0
+  url: https://bio-bigdata.hrbmu.edu.cn/CellMarker2.0/
+  downloaded_file: Cell_marker_Human.xlsx
+  downloaded_on: 2026-11-24
+  filters: Human records with tissue_type Lung, including lung-cancer entries when available
+
+# These candidate labels are from the CellMarker Lung records
+labels:
+  T cell:
+    - CD3D
+    - CD3E
+    - TRAC
+    - LCK
+    - IL7R
+    - CD247
+  B cell:
+    - MS4A1
+    - CD79A
+    - CD19
+    - CD74
+    - CD37
+    - HLA-DRA
+  Plasma cell:
+    - MZB1
+    - XBP1
+    - SDC1
+    - JCHAIN
+    - TNFRSF17
+    - CD38
+  NK cell:
+    - NKG7
+    - KLRD1
+    - GNLY
+    - NCR1
+    - KLRF1
+    - PRF1
+  Macrophage:
+    - CD68
+    - CD163
+    - MRC1
+    - C1QC
+    - C1QB
+    - APOE
+  Monocyte:
+    - LYZ
+    - S100A8
+    - S100A9
+    - FCN1
+    - CTSD
+    - LILRB1
+  Dendritic cell:
+    - FCER1A
+    - CD1C
+    - CLEC10A
+    - CD83
+    - CD209
+    - HLA-DRA
+  Mast cell:
+    - TPSB2
+    - TPSAB1
+    - KIT
+    - CPA3
+    - MS4A2
+    - GATA2
+  Epithelial cell:
+    - EPCAM
+    - CDH1
+    - KRT8
+    - KRT18
+    - KRT19
+    - KRT7
+  Endothelial cell:
+    - PECAM1
+    - VWF
+    - CDH5
+    - CLDN5
+    - RAMP2
+    - KDR
+  Fibroblast:
+    - PDGFRA
+    - COL1A1
+    - COL1A2
+    - DCN
+    - LUM
+    - COL3A1
+  Myofibroblast:
+    - ACTA2
+    - TAGLN
+    - MYH11
+    - CNN1
+    - DES
+    - MYLK
+  Pericyte:
+    - RGS5
+    - CSPG4
+    - MCAM
+    - PDGFRB
+    - RBP1
+    - COX4I2
+  Smooth muscle cell:
+    - ACTA2
+    - MYH11
+    - TAGLN
+    - CNN1
+    - ACTG2
+    - DES
+  Mesothelial cell:
+    - MSLN
+    - WT1
+    - UPK3B
+    - KRT19
+    - KRT8
+    - KRT18
+
+# This mapping is used only after annotation to compare detailed labels with
+# the source-provided broad Cell_type reference.
+evaluation:
+  source_label_order:
+    - T lymphocytes
+    - B lymphocytes
+    - NK cells
+    - Myeloid cells
+    - Epithelial cells
+    - Fibroblasts
+    - MAST cells
+    - Endothelial cells
+  detailed_to_source:
+    T cell: T lymphocytes
+    B cell: B lymphocytes
+    Plasma cell: B lymphocytes
+    NK cell: NK cells
+    Macrophage: Myeloid cells
+    Monocyte: Myeloid cells
+    Dendritic cell: Myeloid cells
+    Mast cell: MAST cells
+    Epithelial cell: Epithelial cells
+    Endothelial cell: Endothelial cells
+    Fibroblast: Fibroblasts
+    Myofibroblast: Fibroblasts
+    Pericyte: unmatched
+    Smooth muscle cell: unmatched
+    Mesothelial cell: unmatched

@@ -1,0 +1,289 @@
+representation,method,combination,reference_cell_type,predicted_label,cells
+pca,kmeans,pca_kmeans,T lymphocytes,T lymphocytes,18468
+pca,kmeans,pca_kmeans,T lymphocytes,B lymphocytes,90
+pca,kmeans,pca_kmeans,T lymphocytes,NK cells,0
+pca,kmeans,pca_kmeans,T lymphocytes,Myeloid cells,0
+pca,kmeans,pca_kmeans,T lymphocytes,Epithelial cells,0
+pca,kmeans,pca_kmeans,T lymphocytes,Fibroblasts,0
+pca,kmeans,pca_kmeans,T lymphocytes,MAST cells,2
+pca,kmeans,pca_kmeans,T lymphocytes,Endothelial cells,0
+pca,kmeans,pca_kmeans,T lymphocytes,unmatched,0
+pca,kmeans,pca_kmeans,B lymphocytes,T lymphocytes,32
+pca,kmeans,pca_kmeans,B lymphocytes,B lymphocytes,5058
+pca,kmeans,pca_kmeans,B lymphocytes,NK cells,0
+pca,kmeans,pca_kmeans,B lymphocytes,Myeloid cells,0
+pca,kmeans,pca_kmeans,B lymphocytes,Epithelial cells,0
+pca,kmeans,pca_kmeans,B lymphocytes,Fibroblasts,0
+pca,kmeans,pca_kmeans,B lymphocytes,MAST cells,0
+pca,kmeans,pca_kmeans,B lymphocytes,Endothelial cells,0
+pca,kmeans,pca_kmeans,B lymphocytes,unmatched,0
+pca,kmeans,pca_kmeans,NK cells,T lymphocytes,1003
+pca,kmeans,pca_kmeans,NK cells,B lymphocytes,0
+pca,kmeans,pca_kmeans,NK cells,NK cells,0
+pca,kmeans,pca_kmeans,NK cells,Myeloid cells,0
+pca,kmeans,pca_kmeans,NK cells,Epithelial cells,0
+pca,kmeans,pca_kmeans,NK cells,Fibroblasts,0
+pca,kmeans,pca_kmeans,NK cells,MAST cells,0
+pca,kmeans,pca_kmeans,NK cells,Endothelial cells,0
+pca,kmeans,pca_kmeans,NK cells,unmatched,0
+pca,kmeans,pca_kmeans,Myeloid cells,T lymphocytes,112
+pca,kmeans,pca_kmeans,Myeloid cells,B lymphocytes,464
+pca,kmeans,pca_kmeans,Myeloid cells,NK cells,0
+pca,kmeans,pca_kmeans,Myeloid cells,Myeloid cells,8131
+pca,kmeans,pca_kmeans,Myeloid cells,Epithelial cells,1
+pca,kmeans,pca_kmeans,Myeloid cells,Fibroblasts,0
+pca,kmeans,pca_kmeans,Myeloid cells,MAST cells,3
+pca,kmeans,pca_kmeans,Myeloid cells,Endothelial cells,0
+pca,kmeans,pca_kmeans,Myeloid cells,unmatched,0
+pca,kmeans,pca_kmeans,Epithelial cells,T lymphocytes,64
+pca,kmeans,pca_kmeans,Epithelial cells,B lymphocytes,15
+pca,kmeans,pca_kmeans,Epithelial cells,NK cells,0
+pca,kmeans,pca_kmeans,Epithelial cells,Myeloid cells,26
+pca,kmeans,pca_kmeans,Epithelial cells,Epithelial cells,6560
+pca,kmeans,pca_kmeans,Epithelial cells,Fibroblasts,0
+pca,kmeans,pca_kmeans,Epithelial cells,MAST cells,2
+pca,kmeans,pca_kmeans,Epithelial cells,Endothelial cells,0
+pca,kmeans,pca_kmeans,Epithelial cells,unmatched,0
+pca,kmeans,pca_kmeans,Fibroblasts,T lymphocytes,24
+pca,kmeans,pca_kmeans,Fibroblasts,B lymphocytes,5
+pca,kmeans,pca_kmeans,Fibroblasts,NK cells,0
+pca,kmeans,pca_kmeans,Fibroblasts,Myeloid cells,3
+pca,kmeans,pca_kmeans,Fibroblasts,Epithelial cells,0
+pca,kmeans,pca_kmeans,Fibroblasts,Fibroblasts,1666
+pca,kmeans,pca_kmeans,Fibroblasts,MAST cells,1
+pca,kmeans,pca_kmeans,Fibroblasts,Endothelial cells,0
+pca,kmeans,pca_kmeans,Fibroblasts,unmatched,0
+pca,kmeans,pca_kmeans,MAST cells,T lymphocytes,4
+pca,kmeans,pca_kmeans,MAST cells,B lymphocytes,1
+pca,kmeans,pca_kmeans,MAST cells,NK cells,0
+pca,kmeans,pca_kmeans,MAST cells,Myeloid cells,2
+pca,kmeans,pca_kmeans,MAST cells,Epithelial cells,0
+pca,kmeans,pca_kmeans,MAST cells,Fibroblasts,0
+pca,kmeans,pca_kmeans,MAST cells,MAST cells,1798
+pca,kmeans,pca_kmeans,MAST cells,Endothelial cells,0
+pca,kmeans,pca_kmeans,MAST cells,unmatched,0
+pca,kmeans,pca_kmeans,Endothelial cells,T lymphocytes,30
+pca,kmeans,pca_kmeans,Endothelial cells,B lymphocytes,20
+pca,kmeans,pca_kmeans,Endothelial cells,NK cells,0
+pca,kmeans,pca_kmeans,Endothelial cells,Myeloid cells,4
+pca,kmeans,pca_kmeans,Endothelial cells,Epithelial cells,4
+pca,kmeans,pca_kmeans,Endothelial cells,Fibroblasts,586
+pca,kmeans,pca_kmeans,Endothelial cells,MAST cells,1
+pca,kmeans,pca_kmeans,Endothelial cells,Endothelial cells,0
+pca,kmeans,pca_kmeans,Endothelial cells,unmatched,0
+pca,leiden,pca_leiden,T lymphocytes,T lymphocytes,18075
+pca,leiden,pca_leiden,T lymphocytes,B lymphocytes,87
+pca,leiden,pca_leiden,T lymphocytes,NK cells,395
+pca,leiden,pca_leiden,T lymphocytes,Myeloid cells,0
+pca,leiden,pca_leiden,T lymphocytes,Epithelial cells,0
+pca,leiden,pca_leiden,T lymphocytes,Fibroblasts,0
+pca,leiden,pca_leiden,T lymphocytes,MAST cells,3
+pca,leiden,pca_leiden,T lymphocytes,Endothelial cells,0
+pca,leiden,pca_leiden,T lymphocytes,unmatched,0
+pca,leiden,pca_leiden,B lymphocytes,T lymphocytes,9
+pca,leiden,pca_leiden,B lymphocytes,B lymphocytes,5076
+pca,leiden,pca_leiden,B lymphocytes,NK cells,1
+pca,leiden,pca_leiden,B lymphocytes,Myeloid cells,2
+pca,leiden,pca_leiden,B lymphocytes,Epithelial cells,2
+pca,leiden,pca_leiden,B lymphocytes,Fibroblasts,0
+pca,leiden,pca_leiden,B lymphocytes,MAST cells,0
+pca,leiden,pca_leiden,B lymphocytes,Endothelial cells,0
+pca,leiden,pca_leiden,B lymphocytes,unmatched,0
+pca,leiden,pca_leiden,NK cells,T lymphocytes,157
+pca,leiden,pca_leiden,NK cells,B lymphocytes,0
+pca,leiden,pca_leiden,NK cells,NK cells,846
+pca,leiden,pca_leiden,NK cells,Myeloid cells,0
+pca,leiden,pca_leiden,NK cells,Epithelial cells,0
+pca,leiden,pca_leiden,NK cells,Fibroblasts,0
+pca,leiden,pca_leiden,NK cells,MAST cells,0
+pca,leiden,pca_leiden,NK cells,Endothelial cells,0
+pca,leiden,pca_leiden,NK cells,unmatched,0
+pca,leiden,pca_leiden,Myeloid cells,T lymphocytes,18
+pca,leiden,pca_leiden,Myeloid cells,B lymphocytes,2277
+pca,leiden,pca_leiden,Myeloid cells,NK cells,0
+pca,leiden,pca_leiden,Myeloid cells,Myeloid cells,6404
+pca,leiden,pca_leiden,Myeloid cells,Epithelial cells,2
+pca,leiden,pca_leiden,Myeloid cells,Fibroblasts,2
+pca,leiden,pca_leiden,Myeloid cells,MAST cells,8
+pca,leiden,pca_leiden,Myeloid cells,Endothelial cells,0
+pca,leiden,pca_leiden,Myeloid cells,unmatched,0
+pca,leiden,pca_leiden,Epithelial cells,T lymphocytes,5
+pca,leiden,pca_leiden,Epithelial cells,B lymphocytes,11
+pca,leiden,pca_leiden,Epithelial cells,NK cells,0
+pca,leiden,pca_leiden,Epithelial cells,Myeloid cells,4
+pca,leiden,pca_leiden,Epithelial cells,Epithelial cells,6647
+pca,leiden,pca_leiden,Epithelial cells,Fibroblasts,0
+pca,leiden,pca_leiden,Epithelial cells,MAST cells,0
+pca,leiden,pca_leiden,Epithelial cells,Endothelial cells,0
+pca,leiden,pca_leiden,Epithelial cells,unmatched,0
+pca,leiden,pca_leiden,Fibroblasts,T lymphocytes,15
+pca,leiden,pca_leiden,Fibroblasts,B lymphocytes,5
+pca,leiden,pca_leiden,Fibroblasts,NK cells,0
+pca,leiden,pca_leiden,Fibroblasts,Myeloid cells,0
+pca,leiden,pca_leiden,Fibroblasts,Epithelial cells,0
+pca,leiden,pca_leiden,Fibroblasts,Fibroblasts,1678
+pca,leiden,pca_leiden,Fibroblasts,MAST cells,1
+pca,leiden,pca_leiden,Fibroblasts,Endothelial cells,0
+pca,leiden,pca_leiden,Fibroblasts,unmatched,0
+pca,leiden,pca_leiden,MAST cells,T lymphocytes,0
+pca,leiden,pca_leiden,MAST cells,B lymphocytes,1
+pca,leiden,pca_leiden,MAST cells,NK cells,0
+pca,leiden,pca_leiden,MAST cells,Myeloid cells,0
+pca,leiden,pca_leiden,MAST cells,Epithelial cells,0
+pca,leiden,pca_leiden,MAST cells,Fibroblasts,0
+pca,leiden,pca_leiden,MAST cells,MAST cells,1804
+pca,leiden,pca_leiden,MAST cells,Endothelial cells,0
+pca,leiden,pca_leiden,MAST cells,unmatched,0
+pca,leiden,pca_leiden,Endothelial cells,T lymphocytes,6
+pca,leiden,pca_leiden,Endothelial cells,B lymphocytes,1
+pca,leiden,pca_leiden,Endothelial cells,NK cells,0
+pca,leiden,pca_leiden,Endothelial cells,Myeloid cells,2
+pca,leiden,pca_leiden,Endothelial cells,Epithelial cells,0
+pca,leiden,pca_leiden,Endothelial cells,Fibroblasts,0
+pca,leiden,pca_leiden,Endothelial cells,MAST cells,0
+pca,leiden,pca_leiden,Endothelial cells,Endothelial cells,636
+pca,leiden,pca_leiden,Endothelial cells,unmatched,0
+autoencoder,kmeans,autoencoder_kmeans,T lymphocytes,T lymphocytes,18483
+autoencoder,kmeans,autoencoder_kmeans,T lymphocytes,B lymphocytes,73
+autoencoder,kmeans,autoencoder_kmeans,T lymphocytes,NK cells,0
+autoencoder,kmeans,autoencoder_kmeans,T lymphocytes,Myeloid cells,1
+autoencoder,kmeans,autoencoder_kmeans,T lymphocytes,Epithelial cells,1
+autoencoder,kmeans,autoencoder_kmeans,T lymphocytes,Fibroblasts,0
+autoencoder,kmeans,autoencoder_kmeans,T lymphocytes,MAST cells,2
+autoencoder,kmeans,autoencoder_kmeans,T lymphocytes,Endothelial cells,0
+autoencoder,kmeans,autoencoder_kmeans,T lymphocytes,unmatched,0
+autoencoder,kmeans,autoencoder_kmeans,B lymphocytes,T lymphocytes,28
+autoencoder,kmeans,autoencoder_kmeans,B lymphocytes,B lymphocytes,5060
+autoencoder,kmeans,autoencoder_kmeans,B lymphocytes,NK cells,0
+autoencoder,kmeans,autoencoder_kmeans,B lymphocytes,Myeloid cells,0
+autoencoder,kmeans,autoencoder_kmeans,B lymphocytes,Epithelial cells,2
+autoencoder,kmeans,autoencoder_kmeans,B lymphocytes,Fibroblasts,0
+autoencoder,kmeans,autoencoder_kmeans,B lymphocytes,MAST cells,0
+autoencoder,kmeans,autoencoder_kmeans,B lymphocytes,Endothelial cells,0
+autoencoder,kmeans,autoencoder_kmeans,B lymphocytes,unmatched,0
+autoencoder,kmeans,autoencoder_kmeans,NK cells,T lymphocytes,1003
+autoencoder,kmeans,autoencoder_kmeans,NK cells,B lymphocytes,0
+autoencoder,kmeans,autoencoder_kmeans,NK cells,NK cells,0
+autoencoder,kmeans,autoencoder_kmeans,NK cells,Myeloid cells,0
+autoencoder,kmeans,autoencoder_kmeans,NK cells,Epithelial cells,0
+autoencoder,kmeans,autoencoder_kmeans,NK cells,Fibroblasts,0
+autoencoder,kmeans,autoencoder_kmeans,NK cells,MAST cells,0
+autoencoder,kmeans,autoencoder_kmeans,NK cells,Endothelial cells,0
+autoencoder,kmeans,autoencoder_kmeans,NK cells,unmatched,0
+autoencoder,kmeans,autoencoder_kmeans,Myeloid cells,T lymphocytes,16
+autoencoder,kmeans,autoencoder_kmeans,Myeloid cells,B lymphocytes,375
+autoencoder,kmeans,autoencoder_kmeans,Myeloid cells,NK cells,0
+autoencoder,kmeans,autoencoder_kmeans,Myeloid cells,Myeloid cells,8292
+autoencoder,kmeans,autoencoder_kmeans,Myeloid cells,Epithelial cells,9
+autoencoder,kmeans,autoencoder_kmeans,Myeloid cells,Fibroblasts,5
+autoencoder,kmeans,autoencoder_kmeans,Myeloid cells,MAST cells,14
+autoencoder,kmeans,autoencoder_kmeans,Myeloid cells,Endothelial cells,0
+autoencoder,kmeans,autoencoder_kmeans,Myeloid cells,unmatched,0
+autoencoder,kmeans,autoencoder_kmeans,Epithelial cells,T lymphocytes,1
+autoencoder,kmeans,autoencoder_kmeans,Epithelial cells,B lymphocytes,15
+autoencoder,kmeans,autoencoder_kmeans,Epithelial cells,NK cells,0
+autoencoder,kmeans,autoencoder_kmeans,Epithelial cells,Myeloid cells,12
+autoencoder,kmeans,autoencoder_kmeans,Epithelial cells,Epithelial cells,6632
+autoencoder,kmeans,autoencoder_kmeans,Epithelial cells,Fibroblasts,5
+autoencoder,kmeans,autoencoder_kmeans,Epithelial cells,MAST cells,2
+autoencoder,kmeans,autoencoder_kmeans,Epithelial cells,Endothelial cells,0
+autoencoder,kmeans,autoencoder_kmeans,Epithelial cells,unmatched,0
+autoencoder,kmeans,autoencoder_kmeans,Fibroblasts,T lymphocytes,7
+autoencoder,kmeans,autoencoder_kmeans,Fibroblasts,B lymphocytes,4
+autoencoder,kmeans,autoencoder_kmeans,Fibroblasts,NK cells,0
+autoencoder,kmeans,autoencoder_kmeans,Fibroblasts,Myeloid cells,0
+autoencoder,kmeans,autoencoder_kmeans,Fibroblasts,Epithelial cells,1
+autoencoder,kmeans,autoencoder_kmeans,Fibroblasts,Fibroblasts,1687
+autoencoder,kmeans,autoencoder_kmeans,Fibroblasts,MAST cells,0
+autoencoder,kmeans,autoencoder_kmeans,Fibroblasts,Endothelial cells,0
+autoencoder,kmeans,autoencoder_kmeans,Fibroblasts,unmatched,0
+autoencoder,kmeans,autoencoder_kmeans,MAST cells,T lymphocytes,1
+autoencoder,kmeans,autoencoder_kmeans,MAST cells,B lymphocytes,1
+autoencoder,kmeans,autoencoder_kmeans,MAST cells,NK cells,0
+autoencoder,kmeans,autoencoder_kmeans,MAST cells,Myeloid cells,0
+autoencoder,kmeans,autoencoder_kmeans,MAST cells,Epithelial cells,0
+autoencoder,kmeans,autoencoder_kmeans,MAST cells,Fibroblasts,0
+autoencoder,kmeans,autoencoder_kmeans,MAST cells,MAST cells,1803
+autoencoder,kmeans,autoencoder_kmeans,MAST cells,Endothelial cells,0
+autoencoder,kmeans,autoencoder_kmeans,MAST cells,unmatched,0
+autoencoder,kmeans,autoencoder_kmeans,Endothelial cells,T lymphocytes,4
+autoencoder,kmeans,autoencoder_kmeans,Endothelial cells,B lymphocytes,1
+autoencoder,kmeans,autoencoder_kmeans,Endothelial cells,NK cells,0
+autoencoder,kmeans,autoencoder_kmeans,Endothelial cells,Myeloid cells,0
+autoencoder,kmeans,autoencoder_kmeans,Endothelial cells,Epithelial cells,2
+autoencoder,kmeans,autoencoder_kmeans,Endothelial cells,Fibroblasts,638
+autoencoder,kmeans,autoencoder_kmeans,Endothelial cells,MAST cells,0
+autoencoder,kmeans,autoencoder_kmeans,Endothelial cells,Endothelial cells,0
+autoencoder,kmeans,autoencoder_kmeans,Endothelial cells,unmatched,0
+autoencoder,leiden,autoencoder_leiden,T lymphocytes,T lymphocytes,11229
+autoencoder,leiden,autoencoder_leiden,T lymphocytes,B lymphocytes,58
+autoencoder,leiden,autoencoder_leiden,T lymphocytes,NK cells,7262
+autoencoder,leiden,autoencoder_leiden,T lymphocytes,Myeloid cells,6
+autoencoder,leiden,autoencoder_leiden,T lymphocytes,Epithelial cells,2
+autoencoder,leiden,autoencoder_leiden,T lymphocytes,Fibroblasts,1
+autoencoder,leiden,autoencoder_leiden,T lymphocytes,MAST cells,2
+autoencoder,leiden,autoencoder_leiden,T lymphocytes,Endothelial cells,0
+autoencoder,leiden,autoencoder_leiden,T lymphocytes,unmatched,0
+autoencoder,leiden,autoencoder_leiden,B lymphocytes,T lymphocytes,10
+autoencoder,leiden,autoencoder_leiden,B lymphocytes,B lymphocytes,5066
+autoencoder,leiden,autoencoder_leiden,B lymphocytes,NK cells,8
+autoencoder,leiden,autoencoder_leiden,B lymphocytes,Myeloid cells,4
+autoencoder,leiden,autoencoder_leiden,B lymphocytes,Epithelial cells,2
+autoencoder,leiden,autoencoder_leiden,B lymphocytes,Fibroblasts,0
+autoencoder,leiden,autoencoder_leiden,B lymphocytes,MAST cells,0
+autoencoder,leiden,autoencoder_leiden,B lymphocytes,Endothelial cells,0
+autoencoder,leiden,autoencoder_leiden,B lymphocytes,unmatched,0
+autoencoder,leiden,autoencoder_leiden,NK cells,T lymphocytes,0
+autoencoder,leiden,autoencoder_leiden,NK cells,B lymphocytes,0
+autoencoder,leiden,autoencoder_leiden,NK cells,NK cells,1003
+autoencoder,leiden,autoencoder_leiden,NK cells,Myeloid cells,0
+autoencoder,leiden,autoencoder_leiden,NK cells,Epithelial cells,0
+autoencoder,leiden,autoencoder_leiden,NK cells,Fibroblasts,0
+autoencoder,leiden,autoencoder_leiden,NK cells,MAST cells,0
+autoencoder,leiden,autoencoder_leiden,NK cells,Endothelial cells,0
+autoencoder,leiden,autoencoder_leiden,NK cells,unmatched,0
+autoencoder,leiden,autoencoder_leiden,Myeloid cells,T lymphocytes,10
+autoencoder,leiden,autoencoder_leiden,Myeloid cells,B lymphocytes,17
+autoencoder,leiden,autoencoder_leiden,Myeloid cells,NK cells,3
+autoencoder,leiden,autoencoder_leiden,Myeloid cells,Myeloid cells,8642
+autoencoder,leiden,autoencoder_leiden,Myeloid cells,Epithelial cells,32
+autoencoder,leiden,autoencoder_leiden,Myeloid cells,Fibroblasts,2
+autoencoder,leiden,autoencoder_leiden,Myeloid cells,MAST cells,3
+autoencoder,leiden,autoencoder_leiden,Myeloid cells,Endothelial cells,2
+autoencoder,leiden,autoencoder_leiden,Myeloid cells,unmatched,0
+autoencoder,leiden,autoencoder_leiden,Epithelial cells,T lymphocytes,0
+autoencoder,leiden,autoencoder_leiden,Epithelial cells,B lymphocytes,9
+autoencoder,leiden,autoencoder_leiden,Epithelial cells,NK cells,1
+autoencoder,leiden,autoencoder_leiden,Epithelial cells,Myeloid cells,10
+autoencoder,leiden,autoencoder_leiden,Epithelial cells,Epithelial cells,6646
+autoencoder,leiden,autoencoder_leiden,Epithelial cells,Fibroblasts,1
+autoencoder,leiden,autoencoder_leiden,Epithelial cells,MAST cells,0
+autoencoder,leiden,autoencoder_leiden,Epithelial cells,Endothelial cells,0
+autoencoder,leiden,autoencoder_leiden,Epithelial cells,unmatched,0
+autoencoder,leiden,autoencoder_leiden,Fibroblasts,T lymphocytes,4
+autoencoder,leiden,autoencoder_leiden,Fibroblasts,B lymphocytes,3
+autoencoder,leiden,autoencoder_leiden,Fibroblasts,NK cells,1
+autoencoder,leiden,autoencoder_leiden,Fibroblasts,Myeloid cells,1
+autoencoder,leiden,autoencoder_leiden,Fibroblasts,Epithelial cells,2
+autoencoder,leiden,autoencoder_leiden,Fibroblasts,Fibroblasts,1663
+autoencoder,leiden,autoencoder_leiden,Fibroblasts,MAST cells,1
+autoencoder,leiden,autoencoder_leiden,Fibroblasts,Endothelial cells,1
+autoencoder,leiden,autoencoder_leiden,Fibroblasts,unmatched,23
+autoencoder,leiden,autoencoder_leiden,MAST cells,T lymphocytes,1
+autoencoder,leiden,autoencoder_leiden,MAST cells,B lymphocytes,1
+autoencoder,leiden,autoencoder_leiden,MAST cells,NK cells,0
+autoencoder,leiden,autoencoder_leiden,MAST cells,Myeloid cells,1
+autoencoder,leiden,autoencoder_leiden,MAST cells,Epithelial cells,0
+autoencoder,leiden,autoencoder_leiden,MAST cells,Fibroblasts,0
+autoencoder,leiden,autoencoder_leiden,MAST cells,MAST cells,1802
+autoencoder,leiden,autoencoder_leiden,MAST cells,Endothelial cells,0
+autoencoder,leiden,autoencoder_leiden,MAST cells,unmatched,0
+autoencoder,leiden,autoencoder_leiden,Endothelial cells,T lymphocytes,4
+autoencoder,leiden,autoencoder_leiden,Endothelial cells,B lymphocytes,1
+autoencoder,leiden,autoencoder_leiden,Endothelial cells,NK cells,0
+autoencoder,leiden,autoencoder_leiden,Endothelial cells,Myeloid cells,0
+autoencoder,leiden,autoencoder_leiden,Endothelial cells,Epithelial cells,0
+autoencoder,leiden,autoencoder_leiden,Endothelial cells,Fibroblasts,0
+autoencoder,leiden,autoencoder_leiden,Endothelial cells,MAST cells,0
+autoencoder,leiden,autoencoder_leiden,Endothelial cells,Endothelial cells,640
+autoencoder,leiden,autoencoder_leiden,Endothelial cells,unmatched,0
