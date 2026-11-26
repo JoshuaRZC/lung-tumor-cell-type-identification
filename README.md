@@ -86,7 +86,7 @@ Use `make help` to view the available workflow commands. Run the complete analys
 make all
 ```
 
-`make all` always reruns every stage, from download through annotation. The download and conversion stages retrieve and process the raw sparse count matrix, so a complete rerun requires internet access and substantial memory (at least 32 GB RAM).
+`make all` always reruns every stage, from download through annotation. The download and conversion stages retrieve and process the raw count matrix, so a complete rerun requires internet access and substantial memory (at least 32 GB RAM).
 
 To run or rerun one stage at a time, use the following commands in order:
 
